@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Athron | NJNU Particle Physics</title>
+    <link>/author/peter-athron/</link>
+      <atom:link href="/author/peter-athron/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Athron</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NJNU</copyright>
+    <image>
+      <url>/author/peter-athron/avatar_hu6ab88af1914a6bb36559dd98a0c0a6f8_85364_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Peter Athron</title>
+      <link>/author/peter-athron/</link>
+    </image>
+    
+  </channel>
+</rss>

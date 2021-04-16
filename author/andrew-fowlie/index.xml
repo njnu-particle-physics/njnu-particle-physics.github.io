@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Fowlie | NJNU Particle Physics</title>
+    <link>/author/andrew-fowlie/</link>
+      <atom:link href="/author/andrew-fowlie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrew Fowlie</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NJNU</copyright>
+    <image>
+      <url>/author/andrew-fowlie/avatar_hu1de22383c884679832623886f7ae6fe9_766458_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Andrew Fowlie</title>
+      <link>/author/andrew-fowlie/</link>
+    </image>
+    
+  </channel>
+</rss>
