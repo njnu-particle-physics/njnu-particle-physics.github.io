@@ -7,72 +7,59 @@
 // Customized by Willie WY Wong
 // Modified by Andrew Fowlie
 
-var article_html = {};
-var authorid_list = ["fowlie_a_1"]
+var articleHtml = {};
 var months = [ "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-process_authorid_list(authorid_list);
 
-function process_authorid_list(authorid_list)
+processAuthorID()
+
+function processAuthorID()
 {
-  for (let i = 0; i < authorid_list.length; i++)
+  for (let i = 0; i < authorID.length; i++)
   {
-    json_to_html_authorid(authorid_list[i]);
+    json2Html(authorID[i]);
   }
 }
 
-function set_html(article_html)
+function setHtml(articleHtml)
 {
-  console.log('adding articles');
   var html = '<div id="arxivcontainer">\n';
 
   var thisYear = 0;
   var thisMonth = 0;
   
-  var maxArticles = document.getElementById('arxivfeed').getAttribute("maxArticles");
-  var n = 0;
+  var dates = dateSort(Object.keys(articleHtml));
 
-  for (let h in article_html)
+  for (let i = 0; i < dates.length; i++)
   {
 
-    n += 1;
-    if (maxArticles > 0 && n > maxArticles)
+    if (maxArticles > 0 && i > maxArticles)
     {
       break;
     }
 
-    var d = new Date(h);
+    var d = new Date(dates[i]);
     var year = d.getFullYear();
     var month = d.getMonth();
+
     if (year != thisYear || month != thisMonth)
     {
       thisYear = year;
       thisMonth = month;
-      html += '<div class="card experience course" style="width:90%">\n<div class="card-body" style="width:100%">';
-      html += '<h4 class="card-title exp-title my-0">' + thisYear + '</h4>\n';
-      html += months[thisMonth];
-      html += '</div></div>\n';
+      html += '<h5 class="mb-0">' + thisYear + '&nbsp' + months[thisMonth] + '</h5><hr style="height:0px; visibility:hidden;"/>';
     }   
     
-    html += article_html[h];
+    html += articleHtml[dates[i]];
   }
 
   html += '</div>\n'
   document.getElementById('arxivfeed').innerHTML = html;
 }
 
-function sort_key_date(obj) {
-  var dates = Object.keys(obj);
-  sorted_dates = dates.sort((a, b) => Date(b) - Date(a));
-  sorted = {}
-  for (let i = 0; i < sorted_dates.length; i++)
-  {
-    var d = sorted_dates[i];
-    sorted[d] = obj[d];
-  }
-  return sorted;
+function dateSort(obj) {
+  return obj.sort((a, b) => new Date(b) - new Date(a));
 }
 
-function json_to_html_authorid(arxiv_authorid)
+function json2Html(arxiv_authorid)
 {
   var headID = document.getElementsByTagName("head")[0];
   var newScript = document.createElement('script');
@@ -120,15 +107,13 @@ function jsonarXivFeed(feed)
     }
 
     // Now put in the summary
-    var showAbstract = document.getElementById('arxivfeed').getAttribute("showAbstract");
     if (showAbstract != 0)
     {
       html += '<div class="card-text">' + snippet.summary + '</div>\n';
     }
     
     html += '</div>\n </div>\n';
-    article_html[snippet.published] = html;
+    articleHtml[snippet.published] = html;
   }
-  article_html = sort_key_date(article_html);
-  set_html(article_html);
+  setHtml(articleHtml);
 }
