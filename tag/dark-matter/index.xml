@@ -5,12 +5,20 @@
     <link>/tag/dark-matter/</link>
       <atom:link href="/tag/dark-matter/index.xml" rel="self" type="application/rss+xml" />
     <description>Dark Matter</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NJNU</copyright><lastBuildDate>Thu, 15 Apr 2021 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NJNU</copyright><lastBuildDate>Thu, 06 May 2021 09:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hufd5d162a2ab497e50d17162e322fcfa9_226285_512x512_fill_lanczos_center_2.png</url>
       <title>Dark Matter</title>
       <link>/tag/dark-matter/</link>
     </image>
+    
+    <item>
+      <title>Direct detection of Dark Matter</title>
+      <link>/event/roszkowski_2021/</link>
+      <pubDate>Thu, 06 May 2021 09:00:00 +0000</pubDate>
+      <guid>/event/roszkowski_2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Axion Dark Matter</title>

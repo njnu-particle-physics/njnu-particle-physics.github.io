@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuchao Gu | NJNU Particle Physics</title>
+    <link>/author/yuchao-gu/</link>
+      <atom:link href="/author/yuchao-gu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuchao Gu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NJNU</copyright>
+    <image>
+      <url>/author/yuchao-gu/avatar_hub9fade052c52c932921c9dd9f2d9a782_9599_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yuchao Gu</title>
+      <link>/author/yuchao-gu/</link>
+    </image>
+    
+  </channel>
+</rss>

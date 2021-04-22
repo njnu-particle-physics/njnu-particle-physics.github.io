@@ -13,7 +13,46 @@
     <loc>/author/ruilin-zhu-%E6%9C%B1%E7%91%9E%E6%9E%97/</loc>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2021-04-15T09:00:00+00:00</lastmod>
+    <lastmod>2021-05-06T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/dark-matter/</loc>
+    <lastmod>2021-05-06T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/event/roszkowski_2021/</loc>
+    <lastmod>2021-05-06T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/leszek-roszkowski/</loc>
+    <lastmod>2021-05-06T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-05-06T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/event/</loc>
+    <lastmod>2021-05-06T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-05-06T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/theory-seminar/</loc>
+    <lastmod>2021-05-06T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/david-shih/</loc>
+    <lastmod>2021-04-29T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/machine-learning/</loc>
+    <lastmod>2021-04-29T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/event/shih_2021/</loc>
+    <lastmod>2021-04-29T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/hubble-tension/</loc>
+    <lastmod>2021-04-22T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/marc-kamionkowski/</loc>
+    <lastmod>2021-04-22T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/event/kamionkowski_2021/</loc>
+    <lastmod>2021-04-22T09:00:00+00:00</lastmod>
   </url><url>
     <loc>/event/sikivie_2021/</loc>
     <lastmod>2021-04-15T09:00:00+00:00</lastmod>
@@ -21,22 +60,7 @@
     <loc>/tag/axions/</loc>
     <lastmod>2021-04-15T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/dark-matter/</loc>
-    <lastmod>2021-04-15T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2021-04-15T09:00:00+00:00</lastmod>
-  </url><url>
     <loc>/author/pierre-sikivie/</loc>
-    <lastmod>2021-04-15T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/event/</loc>
-    <lastmod>2021-04-15T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-04-15T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/theory-seminar/</loc>
     <lastmod>2021-04-15T09:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/dominik-stockinger/</loc>
@@ -67,8 +91,18 @@
   </url><url>
     <loc>/categories/</loc>
   </url><url>
+    <loc>/author/huifang-lv/</loc>
+  </url><url>
+    <loc>/author/jie-tang/</loc>
+  </url><url>
     <loc>/post/</loc>
   </url><url>
+    <loc>/author/li-jiwei/</loc>
+  </url><url>
     <loc>/publication_types/</loc>
+  </url><url>
+    <loc>/author/xuxu-yang/</loc>
+  </url><url>
+    <loc>/author/yuchao-gu/</loc>
   </url>
 </urlset>

@@ -32,7 +32,7 @@ function setHtml(articleHtml)
   for (let i = 0; i < dates.length; i++)
   {
 
-    if (maxArticles > 0 && i > maxArticles)
+    if (maxArticles > 0 && i >= maxArticles)
     {
       break;
     }
@@ -41,7 +41,7 @@ function setHtml(articleHtml)
     var year = d.getFullYear();
     var month = d.getMonth();
 
-    if (year != thisYear || month != thisMonth)
+    if (showDates && (year != thisYear || month != thisMonth))
     {
       thisYear = year;
       thisMonth = month;
@@ -84,8 +84,8 @@ function jsonarXivFeed(feed)
   {     
     var snippet = feed.entries[i];
     var id = snippet.id.split('/')[4].split('v')[0];
-        
-    html = '<div class="card experience course" style="width:90%">\n<div class="card-body" style="width:100%">';
+              
+    html = '<div class="card experience course" style="width:80%">\n<div class="card-body" style="width:100%">';
     html += '<h4 class="card-title exp-title my-0"><a href=' + snippet.id + '>[' + id + '] ' + snippet.title + '</a></h4>\n';
     html += '<div class="card-subtitle article-metadata my-0">' + parseAuthors(snippet.authors) + '</div>\n';
 

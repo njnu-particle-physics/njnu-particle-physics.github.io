@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Shih | NJNU Particle Physics</title>
+    <link>/author/david-shih/</link>
+      <atom:link href="/author/david-shih/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Shih</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NJNU</copyright><lastBuildDate>Thu, 29 Apr 2021 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hufd5d162a2ab497e50d17162e322fcfa9_226285_512x512_fill_lanczos_center_2.png</url>
+      <title>David Shih</title>
+      <link>/author/david-shih/</link>
+    </image>
+    
+    <item>
+      <title>Machine learning in high-energy physics</title>
+      <link>/event/shih_2021/</link>
+      <pubDate>Thu, 29 Apr 2021 09:00:00 +0000</pubDate>
+      <guid>/event/shih_2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
