@@ -5,7 +5,7 @@
     <link>/author/john-ellis/</link>
       <atom:link href="/author/john-ellis/index.xml" rel="self" type="application/rss+xml" />
     <description>John Ellis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NJNU</copyright><lastBuildDate>Thu, 25 Mar 2021 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NJNU</copyright><lastBuildDate>Thu, 25 Mar 2021 15:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hufd5d162a2ab497e50d17162e322fcfa9_226285_512x512_fill_lanczos_center_2.png</url>
       <title>John Ellis</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Fundamental Physics from Gravitational Waves</title>
       <link>/event/ellis_2021/</link>
-      <pubDate>Thu, 25 Mar 2021 09:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Mar 2021 15:00:00 +0000</pubDate>
       <guid>/event/ellis_2021/</guid>
       <description></description>
     </item>
