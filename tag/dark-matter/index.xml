@@ -5,12 +5,28 @@
     <link>/tag/dark-matter/</link>
       <atom:link href="/tag/dark-matter/index.xml" rel="self" type="application/rss+xml" />
     <description>Dark Matter</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NJNU</copyright><lastBuildDate>Thu, 06 May 2021 15:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NJNU</copyright><lastBuildDate>Thu, 10 Jun 2021 11:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hufd5d162a2ab497e50d17162e322fcfa9_226285_512x512_fill_lanczos_center_2.png</url>
       <title>Dark Matter</title>
       <link>/tag/dark-matter/</link>
     </image>
+    
+    <item>
+      <title>FASER and Forward Physics at the LHC</title>
+      <link>/event/feng_2021/</link>
+      <pubDate>Thu, 10 Jun 2021 11:00:00 +0000</pubDate>
+      <guid>/event/feng_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark Matter Capture in Stars</title>
+      <link>/event/bell_2021/</link>
+      <pubDate>Thu, 03 Jun 2021 11:00:00 +0000</pubDate>
+      <guid>/event/bell_2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Direct detection of dark matter - a theorist’s perspective</title>
@@ -25,6 +41,14 @@
       <link>/event/sikivie_2021/</link>
       <pubDate>Thu, 15 Apr 2021 09:00:00 +0000</pubDate>
       <guid>/event/sikivie_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark Matter Indirect Detection</title>
+      <link>/event/slatyer_2021/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/event/slatyer_2021/</guid>
       <description></description>
     </item>
     
