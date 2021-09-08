@@ -5,12 +5,20 @@
     <link>/tag/theory-seminar/</link>
       <atom:link href="/tag/theory-seminar/index.xml" rel="self" type="application/rss+xml" />
     <description>Theory Seminar</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NJNU</copyright><lastBuildDate>Wed, 24 Nov 2021 15:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NJNU</copyright><lastBuildDate>Wed, 08 Dec 2021 15:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hufd5d162a2ab497e50d17162e322fcfa9_226285_512x512_fill_lanczos_center_2.png</url>
       <title>Theory Seminar</title>
       <link>/tag/theory-seminar/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>/event/haber_2021/</link>
+      <pubDate>Wed, 08 Dec 2021 15:00:00 +0000</pubDate>
+      <guid>/event/haber_2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -25,6 +33,14 @@
       <link>/event/isidori_2021/</link>
       <pubDate>Wed, 27 Oct 2021 15:00:00 +0000</pubDate>
       <guid>/event/isidori_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/event/archil_2021/</link>
+      <pubDate>Wed, 29 Sep 2021 10:00:00 +0000</pubDate>
+      <guid>/event/archil_2021/</guid>
       <description></description>
     </item>
     
