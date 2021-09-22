@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machine Learning | NJNU Particle Physics</title>
-    <link>/tag/machine-learning/</link>
-      <atom:link href="/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Machine Learning</description>
+    <title>Tilman Plehn | NJNU Particle Physics</title>
+    <link>/author/tilman-plehn/</link>
+      <atom:link href="/author/tilman-plehn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tilman Plehn</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NJNU</copyright><lastBuildDate>Wed, 13 Oct 2021 15:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hufd5d162a2ab497e50d17162e322fcfa9_226285_512x512_fill_lanczos_center_2.png</url>
-      <title>Machine Learning</title>
-      <link>/tag/machine-learning/</link>
+      <title>Tilman Plehn</title>
+      <link>/author/tilman-plehn/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/event/plehn_2021/</link>
       <pubDate>Wed, 13 Oct 2021 15:00:00 +0000</pubDate>
       <guid>/event/plehn_2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New Paradigms for New Physics Searches at the LHC with Machine Learning</title>
-      <link>/event/shih_2021/</link>
-      <pubDate>Thu, 29 Apr 2021 09:00:00 +0000</pubDate>
-      <guid>/event/shih_2021/</guid>
       <description></description>
     </item>
     

@@ -38,26 +38,38 @@
   </url><url>
     <loc>/author/yue-tong-zhang-%E5%BC%A0%E6%9C%88%E7%AB%A5/</loc>
   </url><url>
-    <loc>/event/haber_2021/</loc>
-    <lastmod>2021-12-08T15:00:00+00:00</lastmod>
+    <loc>/event/green_2021/</loc>
+    <lastmod>2021-12-15T16:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/anne-green/</loc>
+    <lastmod>2021-12-15T16:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
+    <lastmod>2021-12-15T16:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-12-15T16:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/event/</loc>
+    <lastmod>2021-12-15T16:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-12-15T16:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/theory-seminar/</loc>
+    <lastmod>2021-12-15T16:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/event/haber_2021/</loc>
     <lastmod>2021-12-08T15:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/howie-haber/</loc>
     <lastmod>2021-12-08T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2021-12-08T15:00:00+00:00</lastmod>
+    <loc>/event/pierini_2021/</loc>
+    <lastmod>2021-12-01T16:30:00+00:00</lastmod>
   </url><url>
-    <loc>/event/</loc>
-    <lastmod>2021-12-08T15:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-12-08T15:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/theory-seminar/</loc>
-    <lastmod>2021-12-08T15:00:00+00:00</lastmod>
+    <loc>/author/maurizio-pierini/</loc>
+    <lastmod>2021-12-01T16:30:00+00:00</lastmod>
   </url><url>
     <loc>/event/mccabe_2021/</loc>
     <lastmod>2021-11-24T15:00:00+00:00</lastmod>
@@ -68,6 +80,18 @@
     <loc>/tag/dark-matter/</loc>
     <lastmod>2021-11-24T15:00:00+00:00</lastmod>
   </url><url>
+    <loc>/event/kahlhoefer_2021/</loc>
+    <lastmod>2021-11-17T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/felix-kahlhoefer/</loc>
+    <lastmod>2021-11-17T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/event/buckley_2021/</loc>
+    <lastmod>2021-11-10T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/matthew-buckley/</loc>
+    <lastmod>2021-11-10T10:00:00+00:00</lastmod>
+  </url><url>
     <loc>/event/isidori_2021/</loc>
     <lastmod>2021-10-27T15:00:00+00:00</lastmod>
   </url><url>
@@ -77,10 +101,25 @@
     <loc>/author/gino-isidori/</loc>
     <lastmod>2021-10-27T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>/event/archil_2021/</loc>
-    <lastmod>2021-09-29T10:00:00+00:00</lastmod>
+    <loc>/event/ohare_2021/</loc>
+    <lastmod>2021-10-20T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/ciaran-ohare/</loc>
+    <lastmod>2021-10-20T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/event/plehn_2021/</loc>
+    <lastmod>2021-10-13T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/machine-learning/</loc>
+    <lastmod>2021-10-13T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/tilman-plehn/</loc>
+    <lastmod>2021-10-13T15:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/archil-kobakhidze/</loc>
+    <lastmod>2021-09-29T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/event/archil_2021/</loc>
     <lastmod>2021-09-29T10:00:00+00:00</lastmod>
   </url><url>
     <loc>/event/slatyer_2021/</loc>
@@ -108,9 +147,6 @@
     <lastmod>2021-05-06T15:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/david-shih/</loc>
-    <lastmod>2021-04-29T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/machine-learning/</loc>
     <lastmod>2021-04-29T09:00:00+00:00</lastmod>
   </url><url>
     <loc>/event/shih_2021/</loc>
