@@ -71,6 +71,15 @@ function json2Html(arxiv_authorid)
   headID.appendChild(newScript);
 }
 
+// https://stackoverflow.com/a/48151864/2855071
+function escapeHtml(str)
+{
+  var div = document.createElement('div');
+  var text = document.createTextNode(str);
+  div.appendChild(text);
+  return div.innerHTML.replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
 function parseAuthors(authors)
 {
   let maxAuthors = 5;
@@ -111,7 +120,7 @@ function jsonarXivFeed(feed)
     // Now put in the summary
     if (showAbstract != 0)
     {
-      html += '<div class="card-text">' + snippet.summary + '</div>\n';
+      html += '<div class="card-text">"' + escapeHtml(snippet.summary) + '"</div>\n';
     }
     
     html += '</div>\n </div>\n';
