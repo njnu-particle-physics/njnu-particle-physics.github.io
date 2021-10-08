@@ -11,7 +11,7 @@ var articleHtml = {};
 var n_authors = authorID.length;
 var n_processed = 0;
 
-processAuthorID()
+processAuthorID();
 
 function processAuthorID()
 {
@@ -53,8 +53,25 @@ function setHtml(articleHtml)
     html += articleHtml[dates[i]];
   }
 
-  html += '</div>\n'
+  html += '</div>\n';
+
+  // Link for all papers
+  if (showLinkAll)
+  {
+    let url = '';
+    if (n_authors == 1)
+    {
+      url= 'https://arxiv.org/a/' + authorID[0];
+    } else {
+      url = 'preprints';
+    }
+    html += '<div class="see-all"><a href=' + url + '>';
+    html += '    SEE ALL PREPRINTS';
+    html += '<i class="fas fa-angle-right"></i></a></div>';
+  }
+
   document.getElementById('arxivfeed').innerHTML = html;
+  MathJax.typesetPromise();
 }
 
 function dateSort(obj) {
@@ -77,7 +94,13 @@ function escapeHtml(str)
   var div = document.createElement('div');
   var text = document.createTextNode(str);
   div.appendChild(text);
-  return div.innerHTML.replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+  return div.innerHTML.replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+}
+
+// https://stackoverflow.com/a/1500501/2855071
+function addUrl(str) {
+  let urlRegex = /(https?:\/\/[^\s]+)/g;
+  return str.replace(urlRegex, '<a href="$1">$1</a>')
 }
 
 function parseAuthors(authors)
@@ -92,7 +115,14 @@ function parseAuthors(authors)
 function jsonarXivFeed(feed)
 {
   for (let i = 0; i < feed.entries.length; i++)
-  {     
+  {
+
+    // Don't do more than we will need
+    if (maxArticles > 0 && i >= maxArticles)
+    {
+      break;
+    }
+
     let snippet = feed.entries[i];
     let id = snippet.id.split('/')[4].split('v')[0];
               
@@ -120,7 +150,7 @@ function jsonarXivFeed(feed)
     // Now put in the summary
     if (showAbstract != 0)
     {
-      html += '<div class="card-text">"' + escapeHtml(snippet.summary) + '"</div>\n';
+      html += '<div class="card-text">' + addUrl(escapeHtml(snippet.summary)) + '</div>\n';
     }
     
     html += '</div>\n </div>\n';
