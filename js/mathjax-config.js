@@ -20,4 +20,3 @@ window.MathJax = {
     load: ['[tex]/noerrors'],
   },
 };
-
