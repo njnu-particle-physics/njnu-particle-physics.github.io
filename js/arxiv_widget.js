@@ -99,9 +99,9 @@ function escapeHtml(str)
 
 // https://stackoverflow.com/a/1500501/2855071
 function addUrl(str) {
-  let urlRegex = /(https?:\/\/[^\s]+)/g;
+  let urlRegex = /(https?:\/\/\S*[^.])/g;
   str = str.replace(urlRegex, '<a href="$1">$1</a>');
-  urlRegex = /(\d\d\d\d\.\d\d\d\d)/g;
+  urlRegex = /(\d\d\d\d\.\d\d\d\d\d)/g;
   str = str.replace(urlRegex, '<a href="https://arxiv.org/abs/$1">$1</a>');
   return str;
 }
