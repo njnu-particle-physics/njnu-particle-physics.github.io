@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jialun Ping | NJNU Particle Physics</title>
+    <link>/author/jialun-ping/</link>
+      <atom:link href="/author/jialun-ping/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jialun Ping</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NJNU</copyright>
+    <image>
+      <url>/author/jialun-ping/avatar_hu3c2587fde766f3316a89c57db61b62d8_220319_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Jialun Ping</title>
+      <link>/author/jialun-ping/</link>
+    </image>
+    
+  </channel>
+</rss>
