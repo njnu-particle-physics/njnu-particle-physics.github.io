@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Howie Haber | NJNU Particle Physics</title>
-    <link>/author/howie-haber/</link>
-      <atom:link href="/author/howie-haber/index.xml" rel="self" type="application/rss+xml" />
-    <description>Howie Haber</description>
+    <title>Higgs Physics | NJNU Particle Physics</title>
+    <link>/tag/higgs-physics/</link>
+      <atom:link href="/tag/higgs-physics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Higgs Physics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NJNU</copyright><lastBuildDate>Wed, 08 Dec 2021 15:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hufd5d162a2ab497e50d17162e322fcfa9_226285_512x512_fill_lanczos_center_2.png</url>
-      <title>Howie Haber</title>
-      <link>/author/howie-haber/</link>
+      <title>Higgs Physics</title>
+      <link>/tag/higgs-physics/</link>
     </image>
     
     <item>
