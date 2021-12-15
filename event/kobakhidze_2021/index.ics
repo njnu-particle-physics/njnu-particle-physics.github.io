@@ -7,13 +7,14 @@ BEGIN:VTIMEZONE
 TZID:	Asia/Shanghai
 X-LIC-LOCATION:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
 SUMMARY:Archil Kobakhidze - Gravitational instantons, CP asymmetry, and axions
 DESCRIPTION:Quantum gravity effects are typically considered irrelevant for particle physics and its phenomenology. Contrary to this, I will argue that non-perturbative quantum gravity effects associated with charged gravitational instantons have significant implications for the understanding of the observed quantisation of electric charge and an additional CP violation within the Standard Model. More specifically, I will discuss how the coloured Eguchi-Hanson gravitational instantons invalidate the Peccei-Quinn axion solution to the strong CP problem and suggest that the genuine axionic solution of the problem must involve an additional companion axion. Some phenomenological and cosmological aspects of the companion axion model will be presented.
-DTSTAMP;TZID=Asia/Shanghai:20210929T100000
-DTSTART;TZID=Asia/Shanghai:20210929T100000
+DTSTAMP;TZID=/Asia/Shanghai:20210929T100000
+DTSTART;TZID=/Asia/Shanghai:20210929T100000
 LOCATION:Online
 END:VEVENT
 END:VCALENDAR

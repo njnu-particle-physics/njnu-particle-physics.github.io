@@ -7,13 +7,14 @@ BEGIN:VTIMEZONE
 TZID:	Asia/Shanghai
 X-LIC-LOCATION:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
 SUMMARY:John Ellis - Fundamental Physics from Gravitational Waves
 DESCRIPTION:The recent observations of gravitational waves have opened new opportunities in astrophysics, cosmology and fundamental physics, some of which can be explored using atom interferometers. These include the formation of supermassive black holes, searches for a graviton mass and Lorentz violation, probes of possible phase transitions in the early Universe, and the possible existence of cosmic strings.
-DTSTAMP;TZID=Asia/Shanghai:20210325T150000
-DTSTART;TZID=Asia/Shanghai:20210325T150000
+DTSTAMP;TZID=/Asia/Shanghai:20210325T150000
+DTSTART;TZID=/Asia/Shanghai:20210325T150000
 LOCATION:Online
 END:VEVENT
 END:VCALENDAR

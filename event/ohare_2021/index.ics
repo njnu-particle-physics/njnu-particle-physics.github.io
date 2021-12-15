@@ -7,13 +7,14 @@ BEGIN:VTIMEZONE
 TZID:	Asia/Shanghai
 X-LIC-LOCATION:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
 SUMMARY:Ciaran O'Hare - Venturing into the neutrino fog
 DESCRIPTION:The last few years have seen the largest underground dark matter searches rapidly approach their purported ultimate sensitivity limit, which is increasingly being referred to as the "neutrino fog". An experiment reaches the neutrino fog went it becomes so large and so sensitive that the background from coherent scattering of astrophysical neutrinos begins to masquerade as dark matter, thereby preventing any conclusive identification of a signal. The encroachment of the neutrino fog has driven an increase in interest towards a technique which has the potential to circumvent the limit entirely: directional detection. The technique aims to measure the strongly anisotropic angular distribution of the dark matter wind incident on Earth as we journey around the Milky Way galaxy. The potential for dark matter discovery with directional detectors greatly exceeds that of conventional detectors, so the concept is well worth investigation if we 1) want to extend the search for dark matter well into the neutrino fog, or 2) wish to confirm a potential signal of dark matter without relying on the controversial and systematic-prone annual modulation. While in practice directional detectors are several years away from being at a competitive scale, there several promising approaches under investigation. The CYGNUS collaboration in particular is developing a competitive global network of directional detectors using modular gas time projection chambers. I will give an overview of the status of neutrino backgrounds to dark matter searches and then describe ongoing work trying to bring the concept of directional detection to reality.
-DTSTAMP;TZID=Asia/Shanghai:20211020T150000
-DTSTART;TZID=Asia/Shanghai:20211020T150000
+DTSTAMP;TZID=/Asia/Shanghai:20211020T150000
+DTSTART;TZID=/Asia/Shanghai:20211020T150000
 LOCATION:Online
 END:VEVENT
 END:VCALENDAR

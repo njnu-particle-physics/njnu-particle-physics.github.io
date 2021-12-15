@@ -7,13 +7,14 @@ BEGIN:VTIMEZONE
 TZID:	Asia/Shanghai
 X-LIC-LOCATION:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
 SUMMARY:David Shih - New Paradigms for New Physics Searches at the LHC with Machine Learning
 DESCRIPTION:In recent years, there has been growing interest and many new ideas for anomaly detection and model-independent new physics searches at the LHC, enabled by powerful advances in deep learning. I will give an overview of some of the recent progress in this direction.
-DTSTAMP;TZID=Asia/Shanghai:20210429T090000
-DTSTART;TZID=Asia/Shanghai:20210429T090000
+DTSTAMP;TZID=/Asia/Shanghai:20210429T090000
+DTSTART;TZID=/Asia/Shanghai:20210429T090000
 LOCATION:Online
 END:VEVENT
 END:VCALENDAR

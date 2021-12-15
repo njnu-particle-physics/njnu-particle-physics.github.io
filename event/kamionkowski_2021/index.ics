@@ -7,13 +7,14 @@ BEGIN:VTIMEZONE
 TZID:	Asia/Shanghai
 X-LIC-LOCATION:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
 SUMMARY:Marc Kamionkowski - The Hubble tension and early dark energy
 DESCRIPTION:We've known since the late 1920s that the Universe is expanding. However, the expansion rate currently inferred from measurements of the cosmic microwave background now disagrees with that obtained from supernova measurements. Over the past few years, theorists have been exploring the possibility that this Hubble tension is explained by some new "early dark energy": a new component of matter that may have been dynamically important several hundred thousand years after the Big Bang.
-DTSTAMP;TZID=Asia/Shanghai:20210422T090000
-DTSTART;TZID=Asia/Shanghai:20210422T090000
+DTSTAMP;TZID=/Asia/Shanghai:20210422T090000
+DTSTART;TZID=/Asia/Shanghai:20210422T090000
 LOCATION:Online
 END:VEVENT
 END:VCALENDAR

@@ -7,13 +7,14 @@ BEGIN:VTIMEZONE
 TZID:	Asia/Shanghai
 X-LIC-LOCATION:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
 SUMMARY:Pierre Sikivie - Axion Dark Matter
 DESCRIPTION: The axion is a hypothetical particle motivated by the strong CP problem of elementary particle physics and by the dark matter problem of cosmology. Cold dark matter axions are naturally produced during the QCD phase transition in the early universe by a process of vacuum realignment. They thermalize later by gravitational self-interactions and form a Bose-Einstein condensate as a result of this thermalization. I'll discuss special properties that may allow us to distinguish axion dark matter from the other dark matter candidates on observational grounds.  I'll also discuss various methods to detect axion dark matter directly on Earth, and report on the experimental efforts under way.
-DTSTAMP;TZID=Asia/Shanghai:20210415T090000
-DTSTART;TZID=Asia/Shanghai:20210415T090000
+DTSTAMP;TZID=/Asia/Shanghai:20210415T090000
+DTSTART;TZID=/Asia/Shanghai:20210415T090000
 LOCATION:Online
 END:VEVENT
 END:VCALENDAR
