@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FASER and Forward Physics at the LHC | NJNU Particle Physics</title>
+    <link>/event/feng_2021/</link>
+      <atom:link href="/event/feng_2021/index.xml" rel="self" type="application/rss+xml" />
+    <description>FASER and Forward Physics at the LHC</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NJNU</copyright><lastBuildDate>Thu, 10 Jun 2021 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/event/feng_2021/featured.jpg</url>
+      <title>FASER and Forward Physics at the LHC</title>
+      <link>/event/feng_2021/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Howie Haber - Why is the Higgs boson SM-like?
+DESCRIPTION:The properties of the Higgs boson discovered in 2012 at the LHC are consistent with the predictions of the Standard Model (SM), to within the accuracy of the present LHC Higgs data.  Nevertheless, there are numerous motivations to suggest that the scalar sector of the fundamental theory of particles is likely to be non-minimal, in contrast to the minimal scalar sector of the SM.   If an extended Higgs sector exists, then why should the observed Higgs boson closely resemble the Higgs boson of the SM?  In this talk, I examine the possibility that the Higgs boson is SM-like due to a softly-broken symmetry,   The size of the corresponding soft-breaking terms ultimately determines the small deviations of the Higgs couplings from their SM values, which can be discovered in future LHC running (or at a Higgs factory that may eventually follow).  If such a scenario can be realized, then it would provide a natural explanation for the SM-like properties of the observed Higgs boson, while allowing for the existence of new scalars (and perhaps other new particles beyond the SM) whose presence can be probed in future runs at the LHC.
+DTSTAMP:20211208T150000
+DTSTART:20211208T150000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Tracy Slatyer - Dark Matter Puzzles from Indirect Searches
+DESCRIPTION:The nature and origin of dark matter is one of the key unresolved questions of fundamental physics. Astrophysical and cosmological data provide powerful probes of dark matter properties, although to date no signal has been confirmed. I will discuss a number of claimed possible signals of novel dark matter physics in astrophysical datasets, alternative explanations, and open questions, with a focus on the Galactic Center Excess in GeV-scale gamma rays.
+DTSTAMP:20210617T090000
+DTSTART:20210617T090000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR

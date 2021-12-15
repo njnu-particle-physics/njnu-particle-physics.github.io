@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dark Matter Puzzles from Indirect Searches | NJNU Particle Physics</title>
+    <link>/event/slatyer_2021/</link>
+      <atom:link href="/event/slatyer_2021/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dark Matter Puzzles from Indirect Searches</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NJNU</copyright><lastBuildDate>Thu, 17 Jun 2021 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/event/slatyer_2021/featured.jpg</url>
+      <title>Dark Matter Puzzles from Indirect Searches</title>
+      <link>/event/slatyer_2021/</link>
+    </image>
+    
+  </channel>
+</rss>

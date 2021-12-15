@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Gino Isidori - B anomalies and the flavor of SMEFT
+DESCRIPTION:Recent data in B-meson decays indicate a coherent pattern of deviations from the Standard Model predictions. These 'anomalies' provide a perfect playground for using the Standard Model Effective Field Theory (SMEFT) in a bottom-up approach, not only to set limits on the scale of the New Physics, but also to extract precise indications about the nature of physics beyond the SM. I will discuss, in particular, how present data points toward new dynamics not far from the TeV scale,  possibly by linked to the origin of fermion mass hierarchies, and to the unification of quarks and leptons. Implications for future measurements both at low and high-energies are also briefly discussed.
+DTSTAMP:20211027T150000
+DTSTART:20211027T150000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR
