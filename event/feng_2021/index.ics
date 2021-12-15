@@ -6,13 +6,14 @@ METHOD:PUBLISH
 BEGIN:VTIMEZONE
 TZID:	Asia/Shanghai
 X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
 SUMMARY:Jonathan Feng - FASER and Forward Physics at the LHC
 DESCRIPTION:For decades, the focus of searches for new particles at the energy frontier has been on heavy particles and high $p_T$. Recently, however, new ideas have led to novel opportunities for discovery in the forward region with relatively fast, small, and cheap experiments. In this talk, I will give an overview of the physics motivations, including both BSM and SM physics; describe FASER, currently being installed at the LHC; and present a few new initiatives, including a forward LAr detector and the Forward Physics Facility.
-DTSTAMP:20210610T110000
-DTSTART:20210610T110000
+DTSTAMP;TZID=Asia/Shanghai:20210610T110000
+DTSTART;TZID=Asia/Shanghai:20210610T110000
 LOCATION:Online
 END:VEVENT
 END:VCALENDAR

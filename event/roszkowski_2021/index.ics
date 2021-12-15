@@ -6,13 +6,14 @@ METHOD:PUBLISH
 BEGIN:VTIMEZONE
 TZID:	Asia/Shanghai
 X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
 SUMMARY:Leszek Roszkowski - Direct detection of dark matter - a theorist’s perspective
 DESCRIPTION:Measurement of a signal in direct detection of a hypothetical particle constituting the dark matter in the Universe  would provide arguably the most convincing proof of its nature. The problem is that we do not really know what the dark matter is. However, we do have some very good candidates for it. I will discuss to what extent current and future experimental efforts will be able to verify our ideas and/or open up other perspectives.
-DTSTAMP:20210506T150000
-DTSTART:20210506T150000
+DTSTAMP;TZID=Asia/Shanghai:20210506T150000
+DTSTART;TZID=Asia/Shanghai:20210506T150000
 LOCATION:Online
 END:VEVENT
 END:VCALENDAR
