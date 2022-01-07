@@ -5,7 +5,7 @@
     <link>/tag/theory-seminar/</link>
       <atom:link href="/tag/theory-seminar/index.xml" rel="self" type="application/rss+xml" />
     <description>Theory Seminar</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NJNU</copyright><lastBuildDate>Wed, 19 Jan 2022 16:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NJNU</copyright><lastBuildDate>Wed, 19 Jan 2022 16:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hufd5d162a2ab497e50d17162e322fcfa9_226285_512x512_fill_lanczos_center_2.png</url>
       <title>Theory Seminar</title>
@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title></title>
+      <title>StratLearn: A general-purpose method for supervised learning under covariate shift with applications to observational cosmology</title>
       <link>/event/trotta_2022/</link>
       <pubDate>Wed, 19 Jan 2022 16:00:00 +0000</pubDate>
       <guid>/event/trotta_2022/</guid>

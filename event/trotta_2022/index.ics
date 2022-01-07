@@ -11,8 +11,10 @@ TZNAME:CST
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
-SUMMARY:Roberto Trotta - 
-DESCRIPTION:
+SUMMARY:Roberto Trotta - StratLearn: A general-purpose method for supervised learning under covariate shift with applications to observational cosmology
+DESCRIPTION:Supervised machine learning will be central in the analysis of upcoming large-scale sky surveys. However, selection bias for astronomical objects yields labelled training data that are not representative of the unlabelled target data distribution. This affects the predictive performance with unreliable target predictions and poor generalization.
+I will present StratLearn, a novel and statistically principled method to improve supervised learning under such covariate shift conditions, based on propensity score stratification. In StratLearn, learners are trained on subgroups ("strata") of the data conditional on the propensity scores, leading to improved covariate balance and much-reduced bias in the model fit.
+This general-purpose method has promising applications in observational cosmology, improving upon existing conditional density estimation of galaxy redshift from Sloan Data Sky Survey (SDSS) data; in the classification of Supernovae (SNe) type Ia from photometric data, it obtains the best reported AUC on the “SNe photometric classification challenge”. If time allows, I'll discuss the embedding of such a classification into a full analysis of SNe data to estimate cosmological parameters.
 DTSTAMP;TZID=/Asia/Shanghai:20220119T160000
 DTSTART;TZID=/Asia/Shanghai:20220119T160000
 LOCATION:Online
