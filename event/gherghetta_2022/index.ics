@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Tony Gherghetta - New 5D Perspectives on the QCD Axion
+DESCRIPTION:The QCD axion provides a solution to both the strong CP and dark matter problems in the Standard Model. However, the axion solution requires that the gravitational violation of the Peccei-Quinn global symmetry be suppressed to an extremely high order. This so-called axion quality problem can be addressed in 5D models that predicts flavor-dependent axion-fermion couplings. Moreover, 5D models also allow for the intriguing possibility that the axion mass could be much larger. These features have implications for the ongoing experimental axion searches as well as new possibilities in early universe cosmology.
+DTSTAMP;TZID=/Asia/Shanghai:20220209T090000
+DTSTART;TZID=/Asia/Shanghai:20220209T090000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR

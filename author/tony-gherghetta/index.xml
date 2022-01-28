@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Axions | NJNU Particle Physics</title>
-    <link>/tag/axions/</link>
-      <atom:link href="/tag/axions/index.xml" rel="self" type="application/rss+xml" />
-    <description>Axions</description>
+    <title>Tony Gherghetta | NJNU Particle Physics</title>
+    <link>/author/tony-gherghetta/</link>
+      <atom:link href="/author/tony-gherghetta/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tony Gherghetta</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NJNU</copyright><lastBuildDate>Wed, 09 Feb 2022 09:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hufd5d162a2ab497e50d17162e322fcfa9_226285_512x512_fill_lanczos_center_2.png</url>
-      <title>Axions</title>
-      <link>/tag/axions/</link>
+      <title>Tony Gherghetta</title>
+      <link>/author/tony-gherghetta/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/event/gherghetta_2022/</link>
       <pubDate>Wed, 09 Feb 2022 09:00:00 +0000</pubDate>
       <guid>/event/gherghetta_2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Axion Dark Matter</title>
-      <link>/event/sikivie_2021/</link>
-      <pubDate>Thu, 15 Apr 2021 09:00:00 +0000</pubDate>
-      <guid>/event/sikivie_2021/</guid>
       <description></description>
     </item>
     
