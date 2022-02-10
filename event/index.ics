@@ -12,6 +12,15 @@ END:VTIMEZONE
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
+SUMMARY:Michael Ramsey-Musolf - Was There an Electroweak Phase Transition?
+DESCRIPTION:The possible existence of beyond Standard Model physics at the TeV scale or below has important implications for the thermal history of electroweak symmetry-breaking. A first order phase transition -- not possible in the minimal Standard Model with a 125 GeV Higgs boson -- would provide the preconditions for electroweak baryogenesis and the generation of primordial gravitational radiation. I discuss recent developments in assessing this possibility that rely on the combination of EFT methods and non-perturbative (lattice) computations. I also discuss implications for high energy collider phenomenology and next generation gravitational wave searches.
+DTSTAMP;TZID=/Asia/Shanghai:20220309T090000
+DTSTART;TZID=/Asia/Shanghai:20220309T090000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
 SUMMARY:Tony Gherghetta - New 5D Perspectives on the QCD Axion
 DESCRIPTION:The QCD axion provides a solution to both the strong CP and dark matter problems in the Standard Model. However, the axion solution requires that the gravitational violation of the Peccei-Quinn global symmetry be suppressed to an extremely high order. This so-called axion quality problem can be addressed in 5D models that predicts flavor-dependent axion-fermion couplings. Moreover, 5D models also allow for the intriguing possibility that the axion mass could be much larger. These features have implications for the ongoing experimental axion searches as well as new possibilities in early universe cosmology.
 DTSTAMP;TZID=/Asia/Shanghai:20220209T090000
