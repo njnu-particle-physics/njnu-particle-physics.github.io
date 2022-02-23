@@ -21,6 +21,15 @@ END:VEVENT
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
+SUMMARY:Nazila Mahmoudi - Search for new physics with rare B decays
+DESCRIPTION:Recently, several consistent deviations from the Standard Model predictions have been measured in flavour physics observables, and in particular in semileptonic B decays. In this presentation, I will discuss thier new physics implications within a model-independent approach and make projections for future measurements that indicate that LHCb will be in the position to discover lepton non-universality with the Run 3 data in a single observable.
+DTSTAMP;TZID=/Asia/Shanghai:20220301T090000
+DTSTART;TZID=/Asia/Shanghai:20220301T090000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
 SUMMARY:Tony Gherghetta - New 5D Perspectives on the QCD Axion
 DESCRIPTION:The QCD axion provides a solution to both the strong CP and dark matter problems in the Standard Model. However, the axion solution requires that the gravitational violation of the Peccei-Quinn global symmetry be suppressed to an extremely high order. This so-called axion quality problem can be addressed in 5D models that predicts flavor-dependent axion-fermion couplings. Moreover, 5D models also allow for the intriguing possibility that the axion mass could be much larger. These features have implications for the ongoing experimental axion searches as well as new possibilities in early universe cosmology.
 DTSTAMP;TZID=/Asia/Shanghai:20220209T090000
