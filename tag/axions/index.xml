@@ -5,12 +5,20 @@
     <link>/tag/axions/</link>
       <atom:link href="/tag/axions/index.xml" rel="self" type="application/rss+xml" />
     <description>Axions</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NJNU</copyright><lastBuildDate>Wed, 09 Feb 2022 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NJNU</copyright><lastBuildDate>Wed, 23 Mar 2022 16:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hufd5d162a2ab497e50d17162e322fcfa9_226285_512x512_fill_lanczos_center_2.png</url>
       <title>Axions</title>
       <link>/tag/axions/</link>
     </image>
+    
+    <item>
+      <title>Axion Quasiparticles for Axion Dark Matter Detection</title>
+      <link>/event/marsh_2022/</link>
+      <pubDate>Wed, 23 Mar 2022 16:00:00 +0000</pubDate>
+      <guid>/event/marsh_2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>New 5D Perspectives on the QCD Axion</title>
