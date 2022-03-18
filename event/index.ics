@@ -12,6 +12,15 @@ END:VTIMEZONE
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
+SUMMARY:Ben Allanach - Collider Phenomenology of Simple $Z^\prime$ Models for $b \to s \mu^+ \mu^-$ Anomalies
+DESCRIPTION:The $b \to s \mu^+ \mu^-$ anomalies constitute a set of measurements which collectively disagree with Standard Model predictions at high significance. We describe a simple anomaly free $Z^\prime$ model (the Third Family Hypercharge Model) and experimental constraints and prospects for verification.
+DTSTAMP;TZID=/Asia/Shanghai:20220427T160000
+DTSTART;TZID=/Asia/Shanghai:20220427T160000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
 SUMMARY:Georg Weiglein - Interplay between Higgs physics and the thermal evolution of the early universe
 DESCRIPTION:
 DTSTAMP;TZID=/Asia/Shanghai:20220413T150000
