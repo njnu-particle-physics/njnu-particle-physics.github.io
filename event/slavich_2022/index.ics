@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Pietro Slavich - Higgs-mass predictions in SUSY models
+DESCRIPTION:Over the past decade, the discovery of the Higgs boson and the remarkably precise measurement of its mass at the LHC have spurred new efforts aimed at improving the accuracy of the theoretical predictions for the Higgs masses in SUSY models. In this talk will present an overview of the recent advances in the field. I will then briefly discuss the implications of the Higgs-mass prediction on a non-minimal SUSY model that features two pairs of Higgs doublets, and provides a solution to the g-2 anomaly thanks to a suitable enhancement of the muon Yukawa coupling.
+DTSTAMP;TZID=/Asia/Shanghai:20220330T160000
+DTSTART;TZID=/Asia/Shanghai:20220330T160000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR

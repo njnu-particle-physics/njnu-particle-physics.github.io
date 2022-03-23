@@ -30,6 +30,15 @@ END:VEVENT
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
+SUMMARY:Pietro Slavich - Higgs-mass predictions in SUSY models
+DESCRIPTION:Over the past decade, the discovery of the Higgs boson and the remarkably precise measurement of its mass at the LHC have spurred new efforts aimed at improving the accuracy of the theoretical predictions for the Higgs masses in SUSY models. In this talk will present an overview of the recent advances in the field. I will then briefly discuss the implications of the Higgs-mass prediction on a non-minimal SUSY model that features two pairs of Higgs doublets, and provides a solution to the g-2 anomaly thanks to a suitable enhancement of the muon Yukawa coupling.
+DTSTAMP;TZID=/Asia/Shanghai:20220330T160000
+DTSTART;TZID=/Asia/Shanghai:20220330T160000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
 SUMMARY:David "Doddy" Marsh - Axion Quasiparticles for Axion Dark Matter Detection
 DESCRIPTION:It has been suggested that certain antiferromagnetic topological insulators contain axion quasiparticles (AQs), and that such materials could be used to detect axion dark matter (DM). I review recent progress in this direction. I begin by clarifying the effective theory, and introducing a model for material losses. Current progress on material candidates is discussed, of which there is considerable and rapid progress happening in materials science, especially in China. The DM-AQ resonance mechanism is explained, following the principle of the dielectric haloscope. AQ-photon mixing leads to an effective photon mass near the antiferromagnetic resonance, changing the optical properties of the material, and allowing for resonant axion DM-photon conversion in samples large compared to the axion Compton wavelength. The proposal could allow for detection of axion DM in the mass range between 1 and 10 meV. Once the axion quasiparticle is detected in materials, the main hurdles to dark matter detection will be: losses in the material, and efficient THz photon counters.
 DTSTAMP;TZID=/Asia/Shanghai:20220323T160000
