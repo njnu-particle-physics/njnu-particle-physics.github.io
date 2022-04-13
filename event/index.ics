@@ -21,6 +21,24 @@ END:VEVENT
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
+SUMMARY:Michael Schmidt - Neutrino physics
+DESCRIPTION:
+DTSTAMP;TZID=/Asia/Shanghai:20220601T150000
+DTSTART;TZID=/Asia/Shanghai:20220601T150000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Francesco Sannino - Composite dynamics
+DESCRIPTION:
+DTSTAMP;TZID=/Asia/Shanghai:20220525T150000
+DTSTART;TZID=/Asia/Shanghai:20220525T150000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
 SUMMARY:Ben Allanach - Collider Phenomenology of Simple $Z^\prime$ Models for $b \to s \mu^+ \mu^-$ Anomalies
 DESCRIPTION:The $b \to s \mu^+ \mu^-$ anomalies constitute a set of measurements which collectively disagree with Standard Model predictions at high significance. We describe a simple anomaly free $Z^\prime$ model (the Third Family Hypercharge Model) and experimental constraints and prospects for verification.
 DTSTAMP;TZID=/Asia/Shanghai:20220427T160000
@@ -30,8 +48,8 @@ END:VEVENT
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
-SUMMARY:Georg Weiglein - Interplay between Higgs physics and the thermal evolution of the early universe
-DESCRIPTION:
+SUMMARY:Georg Weiglein - Confronting BSM physics with the latest experimental results
+DESCRIPTION:The present status of particle physics and some open questions motivating physics beyond the Standard Model (BSM) are briefly reviewed. Theoretical predictions for BSM physics are confronted with the latest experimental results. In particular, recent results for the CP properties of the observed Higgs boson and its trilinear couplings are discussed, and possible experimental hints for additional Higgs bosons at about 400 GeV and about 95 GeV are analysed. Some examples for the interplay between collider physics and cosmology in probing extended Higgs sectors are highlighted. Furthermore, recently reported deviations between the measured values and the Standard Model predictions for the anomalous magnetic moment of the muon and the mass of the W boson are discussed.
 DTSTAMP;TZID=/Asia/Shanghai:20220413T150000
 DTSTART;TZID=/Asia/Shanghai:20220413T150000
 LOCATION:Online

@@ -11,8 +11,8 @@ TZNAME:CST
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
-SUMMARY:Georg Weiglein - Interplay between Higgs physics and the thermal evolution of the early universe
-DESCRIPTION:
+SUMMARY:Georg Weiglein - Confronting BSM physics with the latest experimental results
+DESCRIPTION:The present status of particle physics and some open questions motivating physics beyond the Standard Model (BSM) are briefly reviewed. Theoretical predictions for BSM physics are confronted with the latest experimental results. In particular, recent results for the CP properties of the observed Higgs boson and its trilinear couplings are discussed, and possible experimental hints for additional Higgs bosons at about 400 GeV and about 95 GeV are analysed. Some examples for the interplay between collider physics and cosmology in probing extended Higgs sectors are highlighted. Furthermore, recently reported deviations between the measured values and the Standard Model predictions for the anomalous magnetic moment of the muon and the mass of the W boson are discussed.
 DTSTAMP;TZID=/Asia/Shanghai:20220413T150000
 DTSTART;TZID=/Asia/Shanghai:20220413T150000
 LOCATION:Online
