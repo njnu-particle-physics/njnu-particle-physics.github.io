@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yongcheng Wu | NJNU Particle Physics</title>
+    <link>/author/yongcheng-wu/</link>
+      <atom:link href="/author/yongcheng-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yongcheng Wu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NJNU</copyright>
+    <image>
+      <url>/author/yongcheng-wu/avatar_hueed1ef01e105bf0f50deb5bf5081c56a_96496_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Yongcheng Wu</title>
+      <link>/author/yongcheng-wu/</link>
+    </image>
+    
+  </channel>
+</rss>
