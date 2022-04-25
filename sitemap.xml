@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/author/peter-athron/</loc>
+    <lastmod>2022-04-25T09:10:00+08:00</lastmod>
   </url><url>
     <loc>/author/mingqi-cao-%E6%9B%B9%E6%98%8E%E7%A5%BA/</loc>
   </url><url>
@@ -15,6 +16,7 @@
     <loc>/author/hongxin-dong-%E8%91%A3%E5%AE%8F%E9%91%AB/</loc>
   </url><url>
     <loc>/author/andrew-fowlie/</loc>
+    <lastmod>2022-04-25T09:09:47+08:00</lastmod>
   </url><url>
     <loc>/author/xinbo-gao-%E9%AB%98%E9%91%AB%E5%8D%9A/</loc>
   </url><url>
@@ -22,11 +24,12 @@
   </url><url>
     <loc>/author/yuchao-gu/</loc>
   </url><url>
+    <loc>/author/jun-he/</loc>
+    <lastmod>2022-04-25T09:10:10+08:00</lastmod>
+  </url><url>
     <loc>/author/bingran-he-%E4%BD%95%E7%A7%89%E7%84%B6/</loc>
   </url><url>
     <loc>/author/jia-jie-han-%E9%9F%A9%E4%BD%B3%E6%9D%B0/</loc>
-  </url><url>
-    <loc>/author/jun-he/</loc>
   </url><url>
     <loc>/author/hongxia-huang-%E9%BB%84%E8%99%B9%E9%9C%9E/</loc>
   </url><url>
@@ -41,6 +44,7 @@
     <loc>/author/tiantian-li-%E6%9D%8E%E7%94%9C%E7%94%B0/</loc>
   </url><url>
     <loc>/author/chih-ting-lu-%E5%8D%A2%E8%87%B4%E5%BB%B7/</loc>
+    <lastmod>2022-04-25T09:10:10+08:00</lastmod>
   </url><url>
     <loc>/author/huifang-lv/</loc>
   </url><url>
@@ -63,6 +67,7 @@
     <loc>/author/jie-tang/</loc>
   </url><url>
     <loc>/author/yongcheng-wu/</loc>
+    <lastmod>2022-04-25T09:10:10+08:00</lastmod>
   </url><url>
     <loc>/author/zhongxiu-xu-%E5%BE%90%E5%BF%A0%E7%A7%80/</loc>
   </url><url>
@@ -149,6 +154,18 @@
   </url><url>
     <loc>/event/allanach_2022/</loc>
     <lastmod>2022-04-27T16:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2022-04-25T09:10:10+08:00</lastmod>
+  </url><url>
+    <loc>/post/new_faculty/</loc>
+    <lastmod>2022-04-25T09:10:10+08:00</lastmod>
+  </url><url>
+    <loc>/post/new_scientist/</loc>
+    <lastmod>2022-04-25T09:10:00+08:00</lastmod>
+  </url><url>
+    <loc>/post/p_value_prl/</loc>
+    <lastmod>2022-04-25T09:09:47+08:00</lastmod>
   </url><url>
     <loc>/event/weiglein_2022/</loc>
     <lastmod>2022-04-13T15:00:00+00:00</lastmod>
@@ -351,8 +368,6 @@
     <loc>/preprints/</loc>
   </url><url>
     <loc>/categories/</loc>
-  </url><url>
-    <loc>/post/</loc>
   </url><url>
     <loc>/publication_types/</loc>
   </url>

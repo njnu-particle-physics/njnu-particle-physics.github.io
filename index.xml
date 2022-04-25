@@ -69,6 +69,34 @@
     </item>
     
     <item>
+      <title>Welcome new faculty</title>
+      <link>/post/new_faculty/</link>
+      <pubDate>Mon, 25 Apr 2022 09:10:10 +0800</pubDate>
+      <guid>/post/new_faculty/</guid>
+      <description>&lt;p&gt;We welcome &lt;a href=&#34;./author/chih-ting-lu-%E5%8D%A2%E8%87%B4%E5%BB%B7/&#34;&gt;Chih-Ting Lu (卢致廷)&lt;/a&gt;, &lt;a href=&#34;./author/yongcheng-wu/&#34;&gt;Yongcheng Wu&lt;/a&gt; and &lt;a href=&#34;./author/jun-he/&#34;&gt;Jun He&lt;/a&gt; to our group!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research covered by New Scientist</title>
+      <link>/post/new_scientist/</link>
+      <pubDate>Mon, 25 Apr 2022 09:10:00 +0800</pubDate>
+      <guid>/post/new_scientist/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;./author/peter-athron/&#34;&gt;Peter Athron&lt;/a&gt; was interviewed by New Scientist magazine about his research on the $W$ boson mass measurement and $g-2$.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper published in Physical Review Letters</title>
+      <link>/post/p_value_prl/</link>
+      <pubDate>Mon, 25 Apr 2022 09:09:47 +0800</pubDate>
+      <guid>/post/p_value_prl/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;./author/andrew-fowlie/&#34;&gt;Andrew Fowlie&lt;/a&gt; and colleagues from Cambridge Univesity and the University of Heidelberg published a paper in the prestigious journal Physical Review Letters. They present a new algorithm for computing $p$-values that out-performs previous methods by orders of magnitude.&lt;/p&gt;
+&lt;p&gt;See the &lt;a href=&#34;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.021801&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; or read the &lt;a href=&#34;http://www.njnu.edu.cn/info/1038/16691.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;university press release&lt;/a&gt; for more details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Confronting BSM physics with the latest experimental results</title>
       <link>/event/weiglein_2022/</link>
       <pubDate>Wed, 13 Apr 2022 15:00:00 +0000</pubDate>
