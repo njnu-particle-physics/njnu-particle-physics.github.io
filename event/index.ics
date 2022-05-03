@@ -30,6 +30,15 @@ END:VEVENT
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
+SUMMARY:Maggie  Mühlleitner - 
+DESCRIPTION:
+DTSTAMP;TZID=/Asia/Shanghai:20220615T150000
+DTSTART;TZID=/Asia/Shanghai:20220615T150000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
 SUMMARY:Yvonne Wong - 
 DESCRIPTION:
 DTSTAMP;TZID=/Asia/Shanghai:20220608T100000
@@ -57,19 +66,10 @@ END:VEVENT
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
-SUMMARY:Igor Ivanov - 
-DESCRIPTION:
-DTSTAMP;TZID=/Asia/Shanghai:20220511T160000
-DTSTART;TZID=/Asia/Shanghai:20220511T160000
-LOCATION:Online
-END:VEVENT
-
-BEGIN:VEVENT
-ORGANIZER:NJNU Particle Physics
-SUMMARY:Maggie  Mühlleitner - 
-DESCRIPTION:
-DTSTAMP;TZID=/Asia/Shanghai:20220504T150000
-DTSTART;TZID=/Asia/Shanghai:20220504T150000
+SUMMARY:Igor Ivanov - Navigating the parameter space of the 3HDMs
+DESCRIPTION:The simple idea of several Higgs generations is the basis of the $N$-Higgs-doublet model and leads to many model-building opportunities and rich phenomenology. The 2HDM remains a very popular BSM playground, but much interest is now devoted to exploration of the 3HDMs. However, the phenomenological richness of the 3HDM comes at a price: the number of free parameters becomes so large that straightforward numerical scans of the entire parameter space are of little use and cannot reveal all the phenomenologically attractive situations. One must organize the 3HDM exploration in a smarter way. In this talk, after a brief historical overview of the 3HDMs, I will present several results obtained in the past decade which now allow for systematic and efficient exploration of various 3HDM scenarios. The key points are the complete classification of symmetry groups available in the 3HDM scalar sector, their breaking patterns, their CP properties, their fermion sector and DM consequences, and the basis-invariant methods for the 3HDM.
+DTSTAMP;TZID=/Asia/Shanghai:20220511T150000
+DTSTART;TZID=/Asia/Shanghai:20220511T150000
 LOCATION:Online
 END:VEVENT
 

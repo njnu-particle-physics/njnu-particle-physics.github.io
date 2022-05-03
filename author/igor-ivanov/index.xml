@@ -5,7 +5,7 @@
     <link>/author/igor-ivanov/</link>
       <atom:link href="/author/igor-ivanov/index.xml" rel="self" type="application/rss+xml" />
     <description>Igor Ivanov</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NJNU</copyright><lastBuildDate>Wed, 11 May 2022 16:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NJNU</copyright><lastBuildDate>Wed, 11 May 2022 15:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hufd5d162a2ab497e50d17162e322fcfa9_226285_512x512_fill_lanczos_center_2.png</url>
       <title>Igor Ivanov</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title></title>
-      <link>/event/ivanonv_2022/</link>
-      <pubDate>Wed, 11 May 2022 16:00:00 +0000</pubDate>
-      <guid>/event/ivanonv_2022/</guid>
+      <title>Navigating the parameter space of the 3HDMs</title>
+      <link>/event/ivanov_2022/</link>
+      <pubDate>Wed, 11 May 2022 15:00:00 +0000</pubDate>
+      <guid>/event/ivanov_2022/</guid>
       <description></description>
     </item>
     
