@@ -12,6 +12,15 @@ END:VTIMEZONE
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
+SUMMARY:admin - Paper published in Reports on Progress in Physics
+DESCRIPTION:<no value>
+DTSTAMP;TZID=/Asia/Shanghai:20220512T090947
+DTSTART;TZID=/Asia/Shanghai:20220512T090947
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
 SUMMARY:chihting_lu, yongcheng_wu, jun_he - Welcome new faculty
 DESCRIPTION:<no value>
 DTSTAMP;TZID=/Asia/Shanghai:20220425T091010

@@ -5,12 +5,22 @@
     <link>/author/andrew-fowlie/</link>
       <atom:link href="/author/andrew-fowlie/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrew Fowlie</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NJNU</copyright><lastBuildDate>Mon, 25 Apr 2022 09:09:47 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NJNU</copyright><lastBuildDate>Thu, 12 May 2022 09:09:47 +0800</lastBuildDate>
     <image>
       <url>/author/andrew-fowlie/avatar_hu1de22383c884679832623886f7ae6fe9_766458_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Andrew Fowlie</title>
       <link>/author/andrew-fowlie/</link>
     </image>
+    
+    <item>
+      <title>Paper published in Reports on Progress in Physics</title>
+      <link>/post/ropp/</link>
+      <pubDate>Thu, 12 May 2022 09:09:47 +0800</pubDate>
+      <guid>/post/ropp/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../../author/andrew-fowlie/&#34;&gt;Andrew Fowlie&lt;/a&gt; led a Key Issues Review with researchers from around the world in the prestigious journal Reports on Progress in Physics. They made several simple recommendations for reaching reliable conclusions about the viability of physical theories.&lt;/p&gt;
+&lt;p&gt;See the &lt;a href=&#34;https://doi.org/10.1088/1361-6633/ac60ac&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; or the &lt;a href=&#34;https://arxiv.org/abs/2012.09874&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Paper published in Physical Review Letters</title>
