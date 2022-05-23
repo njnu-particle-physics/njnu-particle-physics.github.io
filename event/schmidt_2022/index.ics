@@ -11,8 +11,9 @@ TZNAME:CST
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
-SUMMARY:Michael Schmidt - Neutrino physics
-DESCRIPTION:
+SUMMARY:Michael Schmidt - Searching for new physics in neutrino-quark interactions
+DESCRIPTION:The neutrino sector is currently not well constrained and may be hiding new physics beyond neutrino masses. In this talk I will consider a model-independent approach using effective field theory and discuss different ways to probe interactions between neutrinos and quarks using a range of different processes from coherent elastic neutrino nucleus scattering (CE$
+u$NS) and invisible meson decays to lepton flavour universality violation.
 DTSTAMP;TZID=/Asia/Shanghai:20220601T150000
 DTSTART;TZID=/Asia/Shanghai:20220601T150000
 LOCATION:Online

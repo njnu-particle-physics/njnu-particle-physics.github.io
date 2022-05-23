@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Neutrino physics | NJNU Particle Physics</title>
+    <title>Searching for new physics in neutrino-quark interactions | NJNU Particle Physics</title>
     <link>/event/schmidt_2022/</link>
       <atom:link href="/event/schmidt_2022/index.xml" rel="self" type="application/rss+xml" />
-    <description>Neutrino physics</description>
+    <description>Searching for new physics in neutrino-quark interactions</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NJNU</copyright><lastBuildDate>Wed, 01 Jun 2022 15:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hufd5d162a2ab497e50d17162e322fcfa9_226285_512x512_fill_lanczos_center_2.png</url>
-      <title>Neutrino physics</title>
+      <url>/event/schmidt_2022/featured.jpg</url>
+      <title>Searching for new physics in neutrino-quark interactions</title>
       <link>/event/schmidt_2022/</link>
     </image>
     
