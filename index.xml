@@ -7,7 +7,7 @@
     <description>NJNU Particle Physics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NJNU</copyright><lastBuildDate>Wed, 21 Sep 2022 10:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hufd5d162a2ab497e50d17162e322fcfa9_226285_512x512_fill_lanczos_center_2.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>NJNU Particle Physics</title>
       <link>/</link>
     </image>
@@ -61,11 +61,73 @@
     </item>
     
     <item>
+      <title>Paper published in Nature Reviews Methods Primer</title>
+      <link>/post/nrmp/</link>
+      <pubDate>Thu, 12 May 2022 09:09:47 +0800</pubDate>
+      <guid>/post/nrmp/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;&#34; srcset=&#34;
+               /post/nrmp/fig_hucb89ca50f7d176c235a2a4115919c8eb_45961_81c202e351359760f9ec254de2dd6064.png 400w,
+               /post/nrmp/fig_hucb89ca50f7d176c235a2a4115919c8eb_45961_0d4ef971d28d8d0d87a151a112dd0900.png 760w,
+               /post/nrmp/fig_hucb89ca50f7d176c235a2a4115919c8eb_45961_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;./post/nrmp/fig_hucb89ca50f7d176c235a2a4115919c8eb_45961_81c202e351359760f9ec254de2dd6064.png&#34;
+               width=&#34;713&#34;
+               height=&#34;361&#34;
+               loading=&#34;lazy&#34; data-zoomable class=&#34; img-light&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a href=&#34;./author/andrew-fowlie/&#34;&gt;Andrew Fowlie&lt;/a&gt; led a review of nested sampling with researchers from around the world in the prestigious journal Nature Reviews Methods Primer.&lt;/p&gt;
+&lt;p&gt;See the &lt;a href=&#34;https://doi.org/10.1038/s43586-022-00121-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; or the &lt;a href=&#34;https://arxiv.org/abs/2205.15570&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Paper published in Reports on Progress in Physics</title>
       <link>/post/ropp/</link>
       <pubDate>Thu, 12 May 2022 09:09:47 +0800</pubDate>
       <guid>/post/ropp/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;./author/andrew-fowlie/&#34;&gt;Andrew Fowlie&lt;/a&gt; led a Key Issues Review with researchers from around the world in the prestigious journal Reports on Progress in Physics. They made several simple recommendations for reaching reliable conclusions about the viability of physical theories.&lt;/p&gt;
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;&#34; srcset=&#34;
+               /post/ropp/fig_hu3ca6831fc7a17c6f37d50af1f5f86958_90872_04b067839cc88b0a609d36ed27198e0a.png 400w,
+               /post/ropp/fig_hu3ca6831fc7a17c6f37d50af1f5f86958_90872_17f6f09b6de086fe87e5a12884d01ad2.png 760w,
+               /post/ropp/fig_hu3ca6831fc7a17c6f37d50af1f5f86958_90872_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;./post/ropp/fig_hu3ca6831fc7a17c6f37d50af1f5f86958_90872_04b067839cc88b0a609d36ed27198e0a.png&#34;
+               width=&#34;760&#34;
+               height=&#34;380&#34;
+               loading=&#34;lazy&#34; data-zoomable class=&#34; img-light&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a href=&#34;./author/andrew-fowlie/&#34;&gt;Andrew Fowlie&lt;/a&gt; led a Key Issues Review with researchers from around the world in the prestigious journal Reports on Progress in Physics. They made several simple recommendations for reaching reliable conclusions about the viability of physical theories.&lt;/p&gt;
 &lt;p&gt;See the &lt;a href=&#34;https://doi.org/10.1088/1361-6633/ac60ac&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; or the &lt;a href=&#34;https://arxiv.org/abs/2012.09874&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
@@ -109,7 +171,33 @@
       <link>/post/p_value_prl/</link>
       <pubDate>Mon, 25 Apr 2022 09:09:47 +0800</pubDate>
       <guid>/post/p_value_prl/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;./author/andrew-fowlie/&#34;&gt;Andrew Fowlie&lt;/a&gt; and colleagues from Cambridge Univesity and the University of Heidelberg published a paper in the prestigious journal Physical Review Letters. They present a new algorithm for computing $p$-values that out-performs previous methods by orders of magnitude.&lt;/p&gt;
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;&#34; srcset=&#34;
+               /post/p_value_prl/fig_huf09f8e31233692f9cc42f640f62e9e6c_21163_8fa28258be20fbbcddd5c18dedcc89a4.png 400w,
+               /post/p_value_prl/fig_huf09f8e31233692f9cc42f640f62e9e6c_21163_935e251e23bb47ee6186f650208640a9.png 760w,
+               /post/p_value_prl/fig_huf09f8e31233692f9cc42f640f62e9e6c_21163_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;./post/p_value_prl/fig_huf09f8e31233692f9cc42f640f62e9e6c_21163_8fa28258be20fbbcddd5c18dedcc89a4.png&#34;
+               width=&#34;504&#34;
+               height=&#34;198&#34;
+               loading=&#34;lazy&#34; data-zoomable class=&#34; img-light&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a href=&#34;./author/andrew-fowlie/&#34;&gt;Andrew Fowlie&lt;/a&gt; and colleagues from Cambridge Univesity and the University of Heidelberg published a paper in the prestigious journal Physical Review Letters. They present a new algorithm for computing $p$-values that out-performs previous methods by orders of magnitude.&lt;/p&gt;
 &lt;p&gt;See the &lt;a href=&#34;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.021801&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; or read the &lt;a href=&#34;http://www.njnu.edu.cn/info/1038/16691.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;university press release&lt;/a&gt; for more details.&lt;/p&gt;
 </description>
     </item>
