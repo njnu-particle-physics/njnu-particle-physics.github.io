@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Neutrino oscillations | NJNU Particle Physics</title>
+    <title>Neutrino Oscillations | NJNU Particle Physics</title>
     <link>/event/kajita_2022/</link>
       <atom:link href="/event/kajita_2022/index.xml" rel="self" type="application/rss+xml" />
-    <description>Neutrino oscillations</description>
+    <description>Neutrino Oscillations</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NJNU</copyright><lastBuildDate>Fri, 09 Sep 2022 14:00:00 +0000</lastBuildDate>
     <image>
       <url>/event/kajita_2022/featured.jpg</url>
-      <title>Neutrino oscillations</title>
+      <title>Neutrino Oscillations</title>
       <link>/event/kajita_2022/</link>
     </image>
     

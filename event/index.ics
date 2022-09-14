@@ -12,16 +12,16 @@ END:VTIMEZONE
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
-SUMMARY:Jens Erler - Electroweak precision tests
-DESCRIPTION:
-DTSTAMP;TZID=/Asia/Shanghai:20220921T100000
-DTSTART;TZID=/Asia/Shanghai:20220921T100000
+SUMMARY:Jens Erler - A Tale with Precision
+DESCRIPTION:The role of precision tests of the Standard Model is reviewed. Historically, they were key in establishing the theory and to verify its renormalizable structure, as well as the presence of radiative corrections. Today the emphasis has shifted to the determination of its parameters to very high accuracy and to searches for physics beyond the Standard Model. Some future prospects will also be discussed.
+DTSTAMP;TZID=/Asia/Shanghai:20220914T140000
+DTSTART;TZID=/Asia/Shanghai:20220914T140000
 LOCATION:Online
 END:VEVENT
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
-SUMMARY:Takaaki Kajita - Neutrino oscillations
+SUMMARY:Takaaki Kajita - Neutrino Oscillations
 DESCRIPTION:Neutrinos have been assumed to have no mass. If neutrinos have mass, neutrino oscillations should occur. Neutrino oscillations were discovered by studying atmospheric and solar neutrinos. I will discuss the discovery of neutrino oscillations, the status of the oscillation studies and the future prospects for neutrino oscillation experiments.
 DTSTAMP;TZID=/Asia/Shanghai:20220909T140000
 DTSTART;TZID=/Asia/Shanghai:20220909T140000
