@@ -14,8 +14,8 @@ BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
 SUMMARY:admin - Colloquium from Nobel prize winner Prof. Takaaki Kajita
 DESCRIPTION:<no value>
-DTSTAMP;TZID=/Asia/Shanghai:20220809T091400
-DTSTART;TZID=/Asia/Shanghai:20220809T091400
+DTSTAMP;TZID=/Asia/Shanghai:20220909T091400
+DTSTART;TZID=/Asia/Shanghai:20220909T091400
 LOCATION:Online
 END:VEVENT
 
