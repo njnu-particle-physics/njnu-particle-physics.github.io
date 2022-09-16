@@ -98,6 +98,9 @@
     <loc>/authors/</loc>
     <lastmod>2022-09-14T14:00:00+00:00</lastmod>
   </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2022-09-14T14:00:00+00:00</lastmod>
+  </url><url>
     <loc>/author/jens-erler/</loc>
     <lastmod>2022-09-14T14:00:00+00:00</lastmod>
   </url><url>
@@ -390,6 +393,8 @@
     <lastmod>2021-03-25T15:00:00+00:00</lastmod>
   </url><url>
     <loc>/admin/</loc>
+  </url><url>
+    <loc>/author/</loc>
   </url><url>
     <loc>/contact/</loc>
   </url><url>
