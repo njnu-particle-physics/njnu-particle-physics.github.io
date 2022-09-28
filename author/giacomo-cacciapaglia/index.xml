@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>composite dynamics | NJNU Particle Physics</title>
-    <link>/tag/composite-dynamics/</link>
-      <atom:link href="/tag/composite-dynamics/index.xml" rel="self" type="application/rss+xml" />
-    <description>composite dynamics</description>
+    <title>Giacomo Cacciapaglia | NJNU Particle Physics</title>
+    <link>/author/giacomo-cacciapaglia/</link>
+      <atom:link href="/author/giacomo-cacciapaglia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Giacomo Cacciapaglia</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NJNU</copyright><lastBuildDate>Wed, 28 Sep 2022 15:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>composite dynamics</title>
-      <link>/tag/composite-dynamics/</link>
+      <title>Giacomo Cacciapaglia</title>
+      <link>/author/giacomo-cacciapaglia/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/event/cacciapaglia_2022/</link>
       <pubDate>Wed, 28 Sep 2022 15:00:00 +0000</pubDate>
       <guid>/event/cacciapaglia_2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Future of Composite Dynamics: From composite Higgs to composite dark sectors</title>
-      <link>/event/sannino_2022/</link>
-      <pubDate>Wed, 25 May 2022 15:00:00 +0000</pubDate>
-      <guid>/event/sannino_2022/</guid>
       <description></description>
     </item>
     

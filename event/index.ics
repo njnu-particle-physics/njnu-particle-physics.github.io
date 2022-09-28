@@ -12,6 +12,15 @@ END:VTIMEZONE
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
+SUMMARY:Giacomo Cacciapaglia - The new frontiers of Composite Higgs models at current and future colliders
+DESCRIPTION:Composite Higgs models offer a valid alternative to the Standard Model Higgs sector, where the electroweak symmetry breaking is explained naturally by non-perturbative dynamics. They also offer rich phenomenology that can be explored at the LHC and, more importantly, at future colliders. After a brief theoretical introduction to this class of models, I will discuss new features of these models that can be searched for at future colliders both via the precision and via the high-energy frontiers.
+DTSTAMP;TZID=/Asia/Shanghai:20220928T150000
+DTSTART;TZID=/Asia/Shanghai:20220928T150000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
 SUMMARY:Jens Erler - A Tale with Precision
 DESCRIPTION:The role of precision tests of the Standard Model is reviewed. Historically, they were key in establishing the theory and to verify its renormalizable structure, as well as the presence of radiative corrections. Today the emphasis has shifted to the determination of its parameters to very high accuracy and to searches for physics beyond the Standard Model. Some future prospects will also be discussed.
 DTSTAMP;TZID=/Asia/Shanghai:20220914T140000
