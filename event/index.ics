@@ -12,6 +12,15 @@ END:VTIMEZONE
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
+SUMMARY:Ian Low - Minimal Entanglement and Emerging Symmetries in Low-energy QCD
+DESCRIPTION:We study low-energy scatterings of spin-1/2 baryons from the perspective of quantum information science, focusing on the correlation between entanglement minimization and the appearance of accidental symmetries. Interactions of the octet baryons below the pion threshold are described by contact operators in an EFT of QCD. Despite there being 64 channels in the 2-to-2 scattering, only 6 independent operators in the EFT are predicted by SU(3) flavor symmetry. We show that successive entanglement minimization in SU(3)-symmetric channels lead to increasingly large emerging symmetries in the EFT. In particular, we identify scattering channels whose entanglement suppression would lead to emergent SU(6), SO(8) and SU(8) flavor symmetries, as well as SU(16) spin-flavor symmetry.
+DTSTAMP;TZID=/Asia/Shanghai:20221012T100000
+DTSTART;TZID=/Asia/Shanghai:20221012T100000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
 SUMMARY:Giacomo Cacciapaglia - The new frontiers of Composite Higgs models at current and future colliders
 DESCRIPTION:Composite Higgs models offer a valid alternative to the Standard Model Higgs sector, where the electroweak symmetry breaking is explained naturally by non-perturbative dynamics. They also offer rich phenomenology that can be explored at the LHC and, more importantly, at future colliders. After a brief theoretical introduction to this class of models, I will discuss new features of these models that can be searched for at future colliders both via the precision and via the high-energy frontiers.
 DTSTAMP;TZID=/Asia/Shanghai:20220928T150000
