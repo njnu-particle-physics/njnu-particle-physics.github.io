@@ -12,6 +12,15 @@ END:VTIMEZONE
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
+SUMMARY:Michael Betancourt - Some Ruminations On The Interplay Between Bayesian Inference and Machine Learning
+DESCRIPTION:The diversity of concepts, terminologies, and interpretations in the broader machine learning community make it difficult to narrow down exactly what machine learning is, let alone compare it to more formal notions of learning like Bayesian inference.  In this talk I will review the foundations of Bayesian inference, and the common impediments to its effective implementation in practice, before comparing and contrasting these ideas to some popular machine learning approaches and discussing the potential opportunities for collaboration.
+DTSTAMP;TZID=/Asia/Shanghai:20221201T100000
+DTSTART;TZID=/Asia/Shanghai:20221201T100000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
 SUMMARY:Ian Low - Minimal Entanglement and Emerging Symmetries in Low-energy QCD
 DESCRIPTION:We study low-energy scatterings of spin-1/2 baryons from the perspective of quantum information science, focusing on the correlation between entanglement minimization and the appearance of accidental symmetries. Interactions of the octet baryons below the pion threshold are described by contact operators in an EFT of QCD. Despite there being 64 channels in the 2-to-2 scattering, only 6 independent operators in the EFT are predicted by SU(3) flavor symmetry. We show that successive entanglement minimization in SU(3)-symmetric channels lead to increasingly large emerging symmetries in the EFT. In particular, we identify scattering channels whose entanglement suppression would lead to emergent SU(6), SO(8) and SU(8) flavor symmetries, as well as SU(16) spin-flavor symmetry.
 DTSTAMP;TZID=/Asia/Shanghai:20221012T100000

@@ -5,12 +5,20 @@
     <link>/tag/theory-seminar/</link>
       <atom:link href="/tag/theory-seminar/index.xml" rel="self" type="application/rss+xml" />
     <description>Theory Seminar</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NJNU</copyright><lastBuildDate>Wed, 12 Oct 2022 10:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NJNU</copyright><lastBuildDate>Thu, 01 Dec 2022 10:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Theory Seminar</title>
       <link>/tag/theory-seminar/</link>
     </image>
+    
+    <item>
+      <title>Some Ruminations On The Interplay Between Bayesian Inference and Machine Learning</title>
+      <link>/event/betancourt_2022/</link>
+      <pubDate>Thu, 01 Dec 2022 10:00:00 +0000</pubDate>
+      <guid>/event/betancourt_2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Minimal Entanglement and Emerging Symmetries in Low-energy QCD</title>
