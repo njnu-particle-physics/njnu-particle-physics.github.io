@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Cheng-Pang Liu - Spin-Dependent Dark Matter-Electron Interactions 
+DESCRIPTION:Direct searches of sub-GeV dark matter (DM) through its scattering with electrons have attracted lots of attention in recent years. Stringent exclusion limits placed on the spin-independent interactions are reported, and will be improved in next-generation experiments, with some of them employing novel detector designs. The subject of this talk is the spin-dependent interactions, which, unlike their counterpart in the DM-nucleon sector, have yet been extensively addressed. I will discuss (1) their theoretical motivations, (2) expected signals in direct search experiments and exclusion limits, and (3) differences in the detector responses from the spin-independent ones, including new ideas to increase the difference so as to achieve further distinguishability.
+DTSTAMP;TZID=/Asia/Shanghai:20221019T150000
+DTSTART;TZID=/Asia/Shanghai:20221019T150000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR
