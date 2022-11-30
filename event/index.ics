@@ -12,6 +12,24 @@ END:VTIMEZONE
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
+SUMMARY:Maxim Pospelov - Accelerated light dark matter
+DESCRIPTION:Light dark matter particles (MeV range) carry too little energy to be seen with current dark matter detectors. Considerable efforts are being spent on lowering the energy thresholds for detection. I will show that these models can be successfully constrained using a double collision scheme. First collision with e.g. solar electrons/cosmic ray particles/accelerator beam can bring the dark matter to detectable energies, with subsequent scattering of accelerated dark matter leaving detectable energy deposition in large neutrino and/or dark matter detectors. This scheme currently provides leading sensitivity to light dark matter in a wide range of masses and cross sections.
+DTSTAMP;TZID=/Asia/Shanghai:20221130T100000
+DTSTART;TZID=/Asia/Shanghai:20221130T100000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Kaladi Babu - Parity Solution to the Strong CP Problem and its Experimental Tests
+DESCRIPTION:In theories where Parity (P) is a spontaneously broken symmetry, the strong CP problem can be solved by P symmetry alone, without the need for an axion.  In this talk I shall elaborate on this proposal and present left-right symmetric theories which offer such a solution to the strong CP problem.  Phenomenological implications of this class of models will be discussed, focusing on neutrino oscillations, flavor anomalies, unitarity violation of the CKM matrix, as well as the $W$-boson mass shift.
+DTSTAMP;TZID=/Asia/Shanghai:20221116T100000
+DTSTART;TZID=/Asia/Shanghai:20221116T100000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
 SUMMARY:Michael Betancourt - Some Ruminations On The Interplay Between Bayesian Inference and Machine Learning
 DESCRIPTION:The diversity of concepts, terminologies, and interpretations in the broader machine learning community make it difficult to narrow down exactly what machine learning is, let alone compare it to more formal notions of learning like Bayesian inference.  In this talk I will review the foundations of Bayesian inference, and the common impediments to its effective implementation in practice, before comparing and contrasting these ideas to some popular machine learning approaches and discussing the potential opportunities for collaboration.
 DTSTAMP;TZID=/Asia/Shanghai:20221109T100000

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Maxim Pospelov - Accelerated light dark matter
+DESCRIPTION:Light dark matter particles (MeV range) carry too little energy to be seen with current dark matter detectors. Considerable efforts are being spent on lowering the energy thresholds for detection. I will show that these models can be successfully constrained using a double collision scheme. First collision with e.g. solar electrons/cosmic ray particles/accelerator beam can bring the dark matter to detectable energies, with subsequent scattering of accelerated dark matter leaving detectable energy deposition in large neutrino and/or dark matter detectors. This scheme currently provides leading sensitivity to light dark matter in a wide range of masses and cross sections.
+DTSTAMP;TZID=/Asia/Shanghai:20221130T100000
+DTSTART;TZID=/Asia/Shanghai:20221130T100000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR
