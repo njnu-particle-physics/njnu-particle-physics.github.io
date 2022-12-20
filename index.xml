@@ -5,12 +5,28 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>NJNU Particle Physics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NJNU</copyright><lastBuildDate>Wed, 30 Nov 2022 10:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NJNU</copyright><lastBuildDate>Wed, 21 Dec 2022 10:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>NJNU Particle Physics</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Light dark matter and implications for structure formation</title>
+      <link>/event/boehm_2022/</link>
+      <pubDate>Wed, 21 Dec 2022 10:00:00 +0000</pubDate>
+      <guid>/event/boehm_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heavy quark decays: Gate to new physics?</title>
+      <link>/event/nierste_2022/</link>
+      <pubDate>Wed, 07 Dec 2022 16:00:00 +0000</pubDate>
+      <guid>/event/nierste_2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Accelerated light dark matter</title>

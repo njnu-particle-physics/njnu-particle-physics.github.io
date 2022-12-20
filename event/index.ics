@@ -12,6 +12,24 @@ END:VTIMEZONE
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
+SUMMARY:Celine Boehm - Light dark matter and implications for structure formation
+DESCRIPTION:In this seminar, I will present the initial motivations to explore sub-GeV dark matter particles and go through some of the current constraints on these scenarios.  I will discuss the implications on structure formation and present a new method to constrain this scenario with gravitational waves.
+DTSTAMP;TZID=/Asia/Shanghai:20221221T100000
+DTSTART;TZID=/Asia/Shanghai:20221221T100000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Ulrich Nierste - Heavy quark decays: Gate to new physics?
+DESCRIPTION:Transitions between quarks of different fermion generations are governed by small parameters of the Standard Model. Precision studies of decays of the heavy bottom quark, which are currently underway at LHCb, CMS, ATLAS, and Belle II, may reveal virtual effects from new particles which are too heavy to be produced in current particle colliders.  The talk addresses goals and methods of this field of research and discusses the decays $b\to s \mu\bar \mu$ and $b\to c\tau\nu$, whose observed decay pattern does not agree with the Standard-Model prediction.  A possible class of new particles capable of mediating these decays comprise so-called leptoquarks, which are predicted in theories of unified gauge interactions. 
+DTSTAMP;TZID=/Asia/Shanghai:20221207T160000
+DTSTART;TZID=/Asia/Shanghai:20221207T160000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
 SUMMARY:Maxim Pospelov - Accelerated light dark matter
 DESCRIPTION:Light dark matter particles (MeV range) carry too little energy to be seen with current dark matter detectors. Considerable efforts are being spent on lowering the energy thresholds for detection. I will show that these models can be successfully constrained using a double collision scheme. First collision with e.g. solar electrons/cosmic ray particles/accelerator beam can bring the dark matter to detectable energies, with subsequent scattering of accelerated dark matter leaving detectable energy deposition in large neutrino and/or dark matter detectors. This scheme currently provides leading sensitivity to light dark matter in a wide range of masses and cross sections.
 DTSTAMP;TZID=/Asia/Shanghai:20221130T100000
