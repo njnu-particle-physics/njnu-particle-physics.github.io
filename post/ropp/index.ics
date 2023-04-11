@@ -11,7 +11,7 @@ TZNAME:CST
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
-SUMMARY:admin - Paper published in Reports on Progress in Physics
+SUMMARY: - Paper published in Reports on Progress in Physics
 DESCRIPTION:<no value>
 DTSTAMP;TZID=/Asia/Shanghai:20220512T090947
 DTSTART;TZID=/Asia/Shanghai:20220512T090947

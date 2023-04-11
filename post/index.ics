@@ -12,7 +12,7 @@ END:VTIMEZONE
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
-SUMMARY:admin - Colloquium from Nobel prize winner Prof. Takaaki Kajita
+SUMMARY: - Colloquium from Nobel prize winner Prof. Takaaki Kajita
 DESCRIPTION:<no value>
 DTSTAMP;TZID=/Asia/Shanghai:20220909T091400
 DTSTART;TZID=/Asia/Shanghai:20220909T091400
@@ -21,7 +21,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
-SUMMARY:admin - Paper published in Nature Reviews Methods Primer
+SUMMARY: - Paper published in Nature Reviews Methods Primer
 DESCRIPTION:<no value>
 DTSTAMP;TZID=/Asia/Shanghai:20220512T090947
 DTSTART;TZID=/Asia/Shanghai:20220512T090947
@@ -30,7 +30,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
-SUMMARY:admin - Paper published in Reports on Progress in Physics
+SUMMARY: - Paper published in Reports on Progress in Physics
 DESCRIPTION:<no value>
 DTSTAMP;TZID=/Asia/Shanghai:20220512T090947
 DTSTART;TZID=/Asia/Shanghai:20220512T090947
@@ -57,7 +57,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
-SUMMARY:admin - Paper published in Physical Review Letters
+SUMMARY: - Paper published in Physical Review Letters
 DESCRIPTION:<no value>
 DTSTAMP;TZID=/Asia/Shanghai:20220425T090947
 DTSTART;TZID=/Asia/Shanghai:20220425T090947
