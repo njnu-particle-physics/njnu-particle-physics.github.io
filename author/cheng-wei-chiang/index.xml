@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheng-Wei Chiang | NJNU Particle Physics</title>
+    <link>/author/cheng-wei-chiang/</link>
+      <atom:link href="/author/cheng-wei-chiang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cheng-Wei Chiang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 NJNU</copyright><lastBuildDate>Wed, 26 Apr 2023 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Cheng-Wei Chiang</title>
+      <link>/author/cheng-wei-chiang/</link>
+    </image>
+    
+    <item>
+      <title>Phenomenological Studies of the Georgi-Machacek Model</title>
+      <link>/event/chiang_2023/</link>
+      <pubDate>Wed, 26 Apr 2023 10:00:00 +0000</pubDate>
+      <guid>/event/chiang_2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
