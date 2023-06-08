@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Towards accurate neutrino cross sections - the argon and titanium spectral functions from (e,e’p) data | NJNU Particle Physics</title>
+    <link>/event/ankowski_2023/</link>
+      <atom:link href="/event/ankowski_2023/index.xml" rel="self" type="application/rss+xml" />
+    <description>Towards accurate neutrino cross sections - the argon and titanium spectral functions from (e,e’p) data</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 NJNU</copyright><lastBuildDate>Wed, 03 May 2023 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/event/ankowski_2023/featured.jpg</url>
+      <title>Towards accurate neutrino cross sections - the argon and titanium spectral functions from (e,e’p) data</title>
+      <link>/event/ankowski_2023/</link>
+    </image>
+    
+  </channel>
+</rss>

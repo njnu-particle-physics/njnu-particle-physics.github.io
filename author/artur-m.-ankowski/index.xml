@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artur M. Ankowski | NJNU Particle Physics</title>
+    <link>/author/artur-m.-ankowski/</link>
+      <atom:link href="/author/artur-m.-ankowski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Artur M. Ankowski</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 NJNU</copyright><lastBuildDate>Wed, 03 May 2023 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Artur M. Ankowski</title>
+      <link>/author/artur-m.-ankowski/</link>
+    </image>
+    
+    <item>
+      <title>Towards accurate neutrino cross sections - the argon and titanium spectral functions from (e,e’p) data</title>
+      <link>/event/ankowski_2023/</link>
+      <pubDate>Wed, 03 May 2023 15:00:00 +0000</pubDate>
+      <guid>/event/ankowski_2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -12,6 +12,15 @@ END:VTIMEZONE
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
+SUMMARY:Artur M. Ankowski - Towards accurate neutrino cross sections - the argon and titanium spectral functions from (e,e’p) data
+DESCRIPTION:To shed light on the difference between matter and antimatter in the Universe and search for physics beyond the Standard Model, the Deep Underground Neutrino Experiment (DUNE) will analyze the oscillations of neutrinos and antineutrinos with unprecedented precision. The success of this challenging study requires a substantial improvement of our understanding of neutrino interactions with atomic nuclei over the next decade. In this talk, I will present DUNE in the broad context of rapidly progressing neutrino physics, and discuss the accuracy of the currently employed cross-section estimates. To improve the accuracy of modeling nuclear effects in argon, the E12-14-012 experiment in Jefferson Lab Hall A measured proton knockout from argon and titanium (the mirror nucleus of argon) induced by scattering of 2.2-GeV electrons, collecting data over a broad range of the initial proton's momenta and the excitation energies of the residual nucleus. Presenting the results of the recent papers, L. Jiang et al. PRD 105, 112002 (2022) and PRD 107, 012005 (2023), from theorists perspective I will describe the analysis that lead to the extraction of the proton spectral functions of argon. I also will discuss the obtained results in the context of past proton-knockout experiments.
+DTSTAMP;TZID=/Asia/Shanghai:20230503T150000
+DTSTART;TZID=/Asia/Shanghai:20230503T150000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
 SUMMARY:Cheng-Wei Chiang - Phenomenological Studies of the Georgi-Machacek Model
 DESCRIPTION:With theoretical constraints such as perturbative unitarity and vacuum stability conditions and updated experimental data of Higgs measurements and direct searches for exotic scalars at the LHC, we perform an updated scan of the allowed parameter space of the Georgi-Machacek (GM) model. With the refined global fit, we examine the allowed parameter space for inducing strong first-order electroweak phase transitions and find only the one-step phase transition is phenomenologically viable. Based upon the result, we study the associated gravitational wave signals and find most of which can be detected by several proposed experiments. We also make predictions on processes that may serve as promising probes to the GM model in the near future at the LHC, including the di-Higgs productions and several exotic scalar production channels.
 DTSTAMP;TZID=/Asia/Shanghai:20230426T100000
