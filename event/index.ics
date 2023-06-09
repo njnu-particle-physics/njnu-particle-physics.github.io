@@ -12,6 +12,15 @@ END:VTIMEZONE
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
+SUMMARY:Hongwan Liu - Cosmological Signatures of Dark Photons
+DESCRIPTION:Cosmological observables are particularly sensitive to the existence of ultralight dark photons. I will describe the physics of conversions between visible and dark photons, and discuss how to use both the cosmic microwave background and the Lyman-alpha forest to look for such conversions.
+DTSTAMP;TZID=/Asia/Shanghai:20230524T100000
+DTSTART;TZID=/Asia/Shanghai:20230524T100000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
 SUMMARY:Artur M. Ankowski - Towards accurate neutrino cross sections - the argon and titanium spectral functions from (e,e’p) data
 DESCRIPTION:To shed light on the difference between matter and antimatter in the Universe and search for physics beyond the Standard Model, the Deep Underground Neutrino Experiment (DUNE) will analyze the oscillations of neutrinos and antineutrinos with unprecedented precision. The success of this challenging study requires a substantial improvement of our understanding of neutrino interactions with atomic nuclei over the next decade. In this talk, I will present DUNE in the broad context of rapidly progressing neutrino physics, and discuss the accuracy of the currently employed cross-section estimates. To improve the accuracy of modeling nuclear effects in argon, the E12-14-012 experiment in Jefferson Lab Hall A measured proton knockout from argon and titanium (the mirror nucleus of argon) induced by scattering of 2.2-GeV electrons, collecting data over a broad range of the initial proton's momenta and the excitation energies of the residual nucleus. Presenting the results of the recent papers, L. Jiang et al. PRD 105, 112002 (2022) and PRD 107, 012005 (2023), from theorists perspective I will describe the analysis that lead to the extraction of the proton spectral functions of argon. I also will discuss the obtained results in the context of past proton-knockout experiments.
 DTSTAMP;TZID=/Asia/Shanghai:20230503T150000

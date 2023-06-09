@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Hongwan Liu - Cosmological Signatures of Dark Photons
+DESCRIPTION:Cosmological observables are particularly sensitive to the existence of ultralight dark photons. I will describe the physics of conversions between visible and dark photons, and discuss how to use both the cosmic microwave background and the Lyman-alpha forest to look for such conversions.
+DTSTAMP;TZID=/Asia/Shanghai:20230524T100000
+DTSTART;TZID=/Asia/Shanghai:20230524T100000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR

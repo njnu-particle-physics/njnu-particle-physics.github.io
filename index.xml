@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>NJNU Particle Physics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 NJNU</copyright><lastBuildDate>Wed, 03 May 2023 15:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 NJNU</copyright><lastBuildDate>Wed, 24 May 2023 10:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>NJNU Particle Physics</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Cosmological Signatures of Dark Photons</title>
+      <link>/event/50_hongwan.liu_2023/</link>
+      <pubDate>Wed, 24 May 2023 10:00:00 +0000</pubDate>
+      <guid>/event/50_hongwan.liu_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Towards accurate neutrino cross sections - the argon and titanium spectral functions from (e,e’p) data</title>
-      <link>/event/ankowski_2023/</link>
+      <link>/event/49_artur.m.ankowski_2023/</link>
       <pubDate>Wed, 03 May 2023 15:00:00 +0000</pubDate>
-      <guid>/event/ankowski_2023/</guid>
+      <guid>/event/49_artur.m.ankowski_2023/</guid>
       <description></description>
     </item>
     
