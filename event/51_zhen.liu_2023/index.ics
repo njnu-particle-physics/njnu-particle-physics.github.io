@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Zhen Liu - Journey with Sourced Millicharged Particles and Dark Photons
+DESCRIPTION:Hidden $U(1)$ symmetries are widely prevalent across numerous new physics models and have garnered significant attention. These symmetries give rise to intriguing testable phenomena, such as "dark photons" as the force mediators and "millicharged" particles representing the matter content. A diverse range of physics experiments and search strategies have been developed to investigate these phenomena. In this talk, I will discuss my recent work in exploring these elusive particles, covering both theoretical foundations and experimental results. I will focus on the unique aspects of controlled search approaches, where we actively source the fields under investigation and discuss the future prospects in this exciting research area.
+DTSTAMP;TZID=/Asia/Shanghai:20230607T100000
+DTSTART;TZID=/Asia/Shanghai:20230607T100000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR

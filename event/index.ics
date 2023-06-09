@@ -12,6 +12,15 @@ END:VTIMEZONE
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
+SUMMARY:Zhen Liu - Journey with Sourced Millicharged Particles and Dark Photons
+DESCRIPTION:Hidden $U(1)$ symmetries are widely prevalent across numerous new physics models and have garnered significant attention. These symmetries give rise to intriguing testable phenomena, such as "dark photons" as the force mediators and "millicharged" particles representing the matter content. A diverse range of physics experiments and search strategies have been developed to investigate these phenomena. In this talk, I will discuss my recent work in exploring these elusive particles, covering both theoretical foundations and experimental results. I will focus on the unique aspects of controlled search approaches, where we actively source the fields under investigation and discuss the future prospects in this exciting research area.
+DTSTAMP;TZID=/Asia/Shanghai:20230607T100000
+DTSTART;TZID=/Asia/Shanghai:20230607T100000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
 SUMMARY:Hongwan Liu - Cosmological Signatures of Dark Photons
 DESCRIPTION:Cosmological observables are particularly sensitive to the existence of ultralight dark photons. I will describe the physics of conversions between visible and dark photons, and discuss how to use both the cosmic microwave background and the Lyman-alpha forest to look for such conversions.
 DTSTAMP;TZID=/Asia/Shanghai:20230524T100000
