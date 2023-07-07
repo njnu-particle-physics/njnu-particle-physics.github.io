@@ -12,6 +12,15 @@ END:VTIMEZONE
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
+SUMMARY:Hyungjin Kim - Fluctuations of ultralight dark matter
+DESCRIPTION:Ultralight dark matter is a compelling dark matter candidate. Being wavelike, it has interesting phenomenological implications in the early and late universe. Recent simulations have shown that ultralight dark matter exhibits an order-one density fluctuation in galaxies. Such density fluctuations can be intuitively understood as quasiparticles. In this talk, we will discuss the statistical properties of density fluctuations (quasiparticles) and related phenomenological consequences. For instance, we will discuss how the wavelike nature of dark matter and density fluctuations could change the evolution of stellar objects as well as modify the pattern of gravitational waves from intermediate-mass ratio inspirals. We will also discuss the possibility to search for such density fluctuations with gravitational wave interferometers.
+DTSTAMP;TZID=/Asia/Shanghai:20230621T150000
+DTSTART;TZID=/Asia/Shanghai:20230621T150000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
 SUMMARY:Zhen Liu - Journey with Sourced Millicharged Particles and Dark Photons
 DESCRIPTION:Hidden $U(1)$ symmetries are widely prevalent across numerous new physics models and have garnered significant attention. These symmetries give rise to intriguing testable phenomena, such as "dark photons" as the force mediators and "millicharged" particles representing the matter content. A diverse range of physics experiments and search strategies have been developed to investigate these phenomena. In this talk, I will discuss my recent work in exploring these elusive particles, covering both theoretical foundations and experimental results. I will focus on the unique aspects of controlled search approaches, where we actively source the fields under investigation and discuss the future prospects in this exciting research area.
 DTSTAMP;TZID=/Asia/Shanghai:20230607T100000
