@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Herrera Gonzalo | NJNU Particle Physics</title>
+    <link>/author/herrera-gonzalo/</link>
+      <atom:link href="/author/herrera-gonzalo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Herrera Gonzalo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 NJNU</copyright><lastBuildDate>Thu, 07 Mar 2024 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Herrera Gonzalo</title>
+      <link>/author/herrera-gonzalo/</link>
+    </image>
+    
+    <item>
+      <title>A neutrino floor for the Migdal effect</title>
+      <link>/event/59_herrera.gonzalo_2024/</link>
+      <pubDate>Thu, 07 Mar 2024 09:00:00 +0000</pubDate>
+      <guid>/event/59_herrera.gonzalo_2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

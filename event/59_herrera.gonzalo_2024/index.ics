@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Herrera Gonzalo - A neutrino floor for the Migdal effect
+DESCRIPTION:Neutrino-nucleus scatterings in the detector could induce electron ionization signatures due to the Migdal effect. We derive prospects for a future detection of the Migdal effect via coherent elastic solar neutrino-nucleus scatterings in liquid xenon detectors, and discuss the irreducible background that it constitutes for the Migdal effect caused by light dark matter-nucleus scatterings. Furthermore, we explore the ionization signal induced by some neutrino electromagnetic and non-standard interactions on nuclei. In certain scenarios, we find a distinct peak on the ionization spectrum of xenon around 0.1 keV, in clear contrast to the Standard Model expectation.
+DTSTAMP;TZID=/Asia/Shanghai:20240307T090000
+DTSTART;TZID=/Asia/Shanghai:20240307T090000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR
