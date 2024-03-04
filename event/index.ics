@@ -12,6 +12,60 @@ END:VTIMEZONE
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
+SUMMARY:Lam Hui - Wave dark matter
+DESCRIPTION:We will discuss the possibility that dark matter is composed of sufficiently light particles that it effectively behaves as a collection of waves. We will review the particle physics motivations and the rich wave phenomenology, and discuss the implications for astronomical observations and experimental detection.
+DTSTAMP;TZID=/Asia/Shanghai:20231129T100000
+DTSTART;TZID=/Asia/Shanghai:20231129T100000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Jessie Shelton - Scouting for Light Dark Showers at the LHC
+DESCRIPTION:As the LHC physics program continues, the search for physics beyond the Standard Model is now pushing into ever more challenging regimes: in particular, into final states that are low mass, long lifetime, and/or high multiplicity. Confining hidden sectors are a particularly interesting class of theories that can naturally yield such final states. This talk will discuss some general considerations about constructing an inclusive search strategy for the "dark shower" signatures such models generate at the LHC before focusing on a particular model that realizes a range of soft, displaced dilepton signatures.
+DTSTAMP;TZID=/Asia/Shanghai:20231122T110000
+DTSTART;TZID=/Asia/Shanghai:20231122T110000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Jose Miguel No - Baryogenesis from extended scalar sectors: off the beaten track
+DESCRIPTION:Extended scalar sectors can yield baryogenesis at the EW scale. This is generally related to their providing the needed departure from thermal equilibrium (absent in the SM) via a first-order EW phase transition. Yet, BSM sources of CP violation are also required for baryogenesis, despite being very strongly constrained experimentally by electric dipole moments (EDMs). In this talk I show that extended scalar sectors may offer a solution to this problem too, by yielding an enhancement of CP violation in the early Universe that is a catalyzer for baryogenesis while being in agreement with EDMs. I will discuss the main ingredients of such new physics scenarios in several different incarnations, as well as their phenomenological consequences. FInally, I will discuss a related avenue to achieve EW baryogenesis that relies on the breaking of hypercharge in the early Universe.
+DTSTAMP;TZID=/Asia/Shanghai:20231115T150000
+DTSTART;TZID=/Asia/Shanghai:20231115T150000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Jim Cline, Benoit Laurent, Jean-Samuel Roux - Leptogenesis and Gravity Waves from a SUSY-breaking Phase Transition
+DESCRIPTION:It has been shown that supersymmetry breaking in a hidden sector at the PeV scale can lead to adistinctive strong first order phase transition, producing gravity waves that could be observed in upcoming experiments. We develop this idea, proposing a concrete model with gauge-mediated SUSY breaking, that can also give successful leptogenesis at the phase transition. A novel mechanism of neutrino mass generation at one loop arises in the model. We show that significant production of primordial black holes can take place at the phase transition.
+DTSTAMP;TZID=/Asia/Shanghai:20231025T090000
+DTSTART;TZID=/Asia/Shanghai:20231025T090000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Bhaskar Dutta - Light mediator models for the dark sector
+DESCRIPTION:In this talk, I will first discuss the low mass mediator models with specific examples. These models contain new particles, e.g. light mediators, dark matter candidates, etc. I will discuss various ways of detecting these models in the ongoing/upcoming experiments which include the ongoing and planned neutrino experiments, FASER, LHC etc. which would include new detection/production channels. Some of these dark sector models also can explain the excess of electron-like events at MiniBooNE.
+DTSTAMP;TZID=/Asia/Shanghai:20231016T100000
+DTSTART;TZID=/Asia/Shanghai:20231016T100000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Joseph Bramante - Dark matter in compact stars and galactic structure
+DESCRIPTION:Dark matter that accumulates in compact stars can have a number of observable effects, including thermal emission from the surface of neutron stars, converting neutron stars into black holes, and causing white dwarfs to explode. After reviewing these compact star dark matter searches I will present some preliminary work on dark matter induced white dwarf explosions, and how these can alter galactic structure through dark matter induced baryonic feedback.
+DTSTAMP;TZID=/Asia/Shanghai:20230912T100000
+DTSTART;TZID=/Asia/Shanghai:20230912T100000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
 SUMMARY:Hyungjin Kim - Fluctuations of ultralight dark matter
 DESCRIPTION:Ultralight dark matter is a compelling dark matter candidate. Being wavelike, it has interesting phenomenological implications in the early and late universe. Recent simulations have shown that ultralight dark matter exhibits an order-one density fluctuation in galaxies. Such density fluctuations can be intuitively understood as quasiparticles. In this talk, we will discuss the statistical properties of density fluctuations (quasiparticles) and related phenomenological consequences. For instance, we will discuss how the wavelike nature of dark matter and density fluctuations could change the evolution of stellar objects as well as modify the pattern of gravitational waves from intermediate-mass ratio inspirals. We will also discuss the possibility to search for such density fluctuations with gravitational wave interferometers.
 DTSTAMP;TZID=/Asia/Shanghai:20230621T150000

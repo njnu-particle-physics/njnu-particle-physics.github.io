@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Bhaskar Dutta - Light mediator models for the dark sector
+DESCRIPTION:In this talk, I will first discuss the low mass mediator models with specific examples. These models contain new particles, e.g. light mediators, dark matter candidates, etc. I will discuss various ways of detecting these models in the ongoing/upcoming experiments which include the ongoing and planned neutrino experiments, FASER, LHC etc. which would include new detection/production channels. Some of these dark sector models also can explain the excess of electron-like events at MiniBooNE.
+DTSTAMP;TZID=/Asia/Shanghai:20231016T100000
+DTSTART;TZID=/Asia/Shanghai:20231016T100000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR

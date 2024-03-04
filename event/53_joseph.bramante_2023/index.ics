@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Joseph Bramante - Dark matter in compact stars and galactic structure
+DESCRIPTION:Dark matter that accumulates in compact stars can have a number of observable effects, including thermal emission from the surface of neutron stars, converting neutron stars into black holes, and causing white dwarfs to explode. After reviewing these compact star dark matter searches I will present some preliminary work on dark matter induced white dwarf explosions, and how these can alter galactic structure through dark matter induced baryonic feedback.
+DTSTAMP;TZID=/Asia/Shanghai:20230912T100000
+DTSTART;TZID=/Asia/Shanghai:20230912T100000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR

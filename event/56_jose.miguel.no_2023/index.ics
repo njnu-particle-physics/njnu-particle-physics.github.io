@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Jose Miguel No - Baryogenesis from extended scalar sectors: off the beaten track
+DESCRIPTION:Extended scalar sectors can yield baryogenesis at the EW scale. This is generally related to their providing the needed departure from thermal equilibrium (absent in the SM) via a first-order EW phase transition. Yet, BSM sources of CP violation are also required for baryogenesis, despite being very strongly constrained experimentally by electric dipole moments (EDMs). In this talk I show that extended scalar sectors may offer a solution to this problem too, by yielding an enhancement of CP violation in the early Universe that is a catalyzer for baryogenesis while being in agreement with EDMs. I will discuss the main ingredients of such new physics scenarios in several different incarnations, as well as their phenomenological consequences. FInally, I will discuss a related avenue to achieve EW baryogenesis that relies on the breaking of hypercharge in the early Universe.
+DTSTAMP;TZID=/Asia/Shanghai:20231115T150000
+DTSTART;TZID=/Asia/Shanghai:20231115T150000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR

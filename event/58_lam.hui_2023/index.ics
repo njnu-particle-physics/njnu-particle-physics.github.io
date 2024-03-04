@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Lam Hui - Wave dark matter
+DESCRIPTION:We will discuss the possibility that dark matter is composed of sufficiently light particles that it effectively behaves as a collection of waves. We will review the particle physics motivations and the rich wave phenomenology, and discuss the implications for astronomical observations and experimental detection.
+DTSTAMP;TZID=/Asia/Shanghai:20231129T100000
+DTSTART;TZID=/Asia/Shanghai:20231129T100000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR

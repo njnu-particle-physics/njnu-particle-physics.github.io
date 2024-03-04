@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Jessie Shelton - Scouting for Light Dark Showers at the LHC
+DESCRIPTION:As the LHC physics program continues, the search for physics beyond the Standard Model is now pushing into ever more challenging regimes: in particular, into final states that are low mass, long lifetime, and/or high multiplicity. Confining hidden sectors are a particularly interesting class of theories that can naturally yield such final states. This talk will discuss some general considerations about constructing an inclusive search strategy for the "dark shower" signatures such models generate at the LHC before focusing on a particular model that realizes a range of soft, displaced dilepton signatures.
+DTSTAMP;TZID=/Asia/Shanghai:20231122T110000
+DTSTART;TZID=/Asia/Shanghai:20231122T110000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR

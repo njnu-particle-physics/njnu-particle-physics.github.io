@@ -5,12 +5,60 @@
     <link>/event/</link>
       <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 NJNU</copyright><lastBuildDate>Wed, 21 Jun 2023 15:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 NJNU</copyright><lastBuildDate>Wed, 29 Nov 2023 10:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Events</title>
       <link>/event/</link>
     </image>
+    
+    <item>
+      <title>Wave dark matter</title>
+      <link>/event/58_lam.hui_2023/</link>
+      <pubDate>Wed, 29 Nov 2023 10:00:00 +0000</pubDate>
+      <guid>/event/58_lam.hui_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scouting for Light Dark Showers at the LHC</title>
+      <link>/event/57_jessie.shelton_2023/</link>
+      <pubDate>Wed, 22 Nov 2023 11:00:00 +0000</pubDate>
+      <guid>/event/57_jessie.shelton_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baryogenesis from extended scalar sectors: off the beaten track</title>
+      <link>/event/56_jose.miguel.no_2023/</link>
+      <pubDate>Wed, 15 Nov 2023 15:00:00 +0000</pubDate>
+      <guid>/event/56_jose.miguel.no_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leptogenesis and Gravity Waves from a SUSY-breaking Phase Transition</title>
+      <link>/event/54_jim.cline_2023/</link>
+      <pubDate>Wed, 25 Oct 2023 09:00:00 +0000</pubDate>
+      <guid>/event/54_jim.cline_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light mediator models for the dark sector</title>
+      <link>/event/55_bhaskar.dutta_2023/</link>
+      <pubDate>Mon, 16 Oct 2023 10:00:00 +0000</pubDate>
+      <guid>/event/55_bhaskar.dutta_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark matter in compact stars and galactic structure</title>
+      <link>/event/53_joseph.bramante_2023/</link>
+      <pubDate>Tue, 12 Sep 2023 10:00:00 +0000</pubDate>
+      <guid>/event/53_joseph.bramante_2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fluctuations of ultralight dark matter</title>

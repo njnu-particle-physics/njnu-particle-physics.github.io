@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Jim Cline, Benoit Laurent, Jean-Samuel Roux - Leptogenesis and Gravity Waves from a SUSY-breaking Phase Transition
+DESCRIPTION:It has been shown that supersymmetry breaking in a hidden sector at the PeV scale can lead to adistinctive strong first order phase transition, producing gravity waves that could be observed in upcoming experiments. We develop this idea, proposing a concrete model with gauge-mediated SUSY breaking, that can also give successful leptogenesis at the phase transition. A novel mechanism of neutrino mass generation at one loop arises in the model. We show that significant production of primordial black holes can take place at the phase transition.
+DTSTAMP;TZID=/Asia/Shanghai:20231025T090000
+DTSTART;TZID=/Asia/Shanghai:20231025T090000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR
