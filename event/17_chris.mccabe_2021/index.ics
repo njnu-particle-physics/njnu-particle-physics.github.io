@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Chris McCabe - Hunting for sub-GeV dark matter with gas-based detectors
+DESCRIPTION:In this talk, I’ll discuss ideas for new approaches in the hunt for light dark matter was gas-based detectors. Firstly, I’ll discuss the sensitivity that may be achievable through the process of electron ionisation of gas targets in a Spherical Proportional Counter, paying particular attention to the potential benefits of molecular gas targets. Secondly, I’ll review the Migdal effect and discuss ongoing attempts to measure the effect in a neutron-nuclear scattering process with a CF4 gas mixture in an Optical Time Projection Chamber.
+DTSTAMP;TZID=/Asia/Shanghai:20211124T150000
+DTSTART;TZID=/Asia/Shanghai:20211124T150000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR

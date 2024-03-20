@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Maggie  Mühlleitner - The Higgs Boson - A Dissection Tool for New Physics
+DESCRIPTION:The discovery of the Higgs boson in 2012 by the LHC experiments ATLAS and CMS at the Large Hadron Collider marked a milestone for elementary particle physics. In the meantime the properties of the discovered Higgs boson have been investigated, and the Higgs turns out to behave very Standard Model (SM)-like. The SM of particle physics furthermore has been tested to great accuracy at the quantum level. However, there are open questions like e.g. the nature of Dark Matter or why there is more matter than antimatter in the Universe, that cannot be answered by the SM. This calls for new physics beyond the SM. So far unfortunately, we do not have any direct sign of new physics. In this situation the role of the Higgs boson becomes extremely important as a dissection tool in our search for physics beyond the SM. I will highlight in my talk the special role of the Higgs boson for our understanding of the true model underlying particle physics. I will present selected examples that demonstrate what can be learnt from the Higgs boson on physics beyond the SM and how it may guide our way in our quest for the model that allows us to describe nature and help us to understand the true picture behind it.
+DTSTAMP;TZID=/Asia/Shanghai:20220615T150000
+DTSTART;TZID=/Asia/Shanghai:20220615T150000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR

@@ -5,12 +5,20 @@
     <link>/event/</link>
       <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 NJNU</copyright><lastBuildDate>Thu, 07 Mar 2024 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 NJNU</copyright><lastBuildDate>Wed, 13 Mar 2024 10:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Events</title>
       <link>/event/</link>
     </image>
+    
+    <item>
+      <title>Roadmap of Particle Physics in the Next Decade</title>
+      <link>/event/60_tao.han_2024/</link>
+      <pubDate>Wed, 13 Mar 2024 10:00:00 +0000</pubDate>
+      <guid>/event/60_tao.han_2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A neutrino floor for the Migdal effect</title>
@@ -102,377 +110,377 @@
     
     <item>
       <title>Phenomenological Studies of the Georgi-Machacek Model</title>
-      <link>/event/chiang_2023/</link>
+      <link>/event/48_cheng-wei.chiang_2023/</link>
       <pubDate>Wed, 26 Apr 2023 10:00:00 +0000</pubDate>
-      <guid>/event/chiang_2023/</guid>
+      <guid>/event/48_cheng-wei.chiang_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dark Sector Searches at the LHC</title>
-      <link>/event/cohen_2023/</link>
+      <link>/event/47_timothy.cohen_2023/</link>
       <pubDate>Wed, 12 Apr 2023 15:00:00 +0000</pubDate>
-      <guid>/event/cohen_2023/</guid>
+      <guid>/event/47_timothy.cohen_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Confining Hidden Sectors at LHC and Beyond</title>
-      <link>/event/stolarski_2023/</link>
+      <link>/event/46_daniel.stolarski_2023/</link>
       <pubDate>Wed, 15 Mar 2023 10:00:00 +0000</pubDate>
-      <guid>/event/stolarski_2023/</guid>
+      <guid>/event/46_daniel.stolarski_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Light dark matter and implications for structure formation</title>
-      <link>/event/boehm_2022/</link>
+      <link>/event/45_celine.boehm_2022/</link>
       <pubDate>Wed, 21 Dec 2022 10:00:00 +0000</pubDate>
-      <guid>/event/boehm_2022/</guid>
+      <guid>/event/45_celine.boehm_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heavy quark decays: Gate to new physics?</title>
-      <link>/event/nierste_2022/</link>
+      <link>/event/44_ulrich.nierste_2022/</link>
       <pubDate>Wed, 07 Dec 2022 16:00:00 +0000</pubDate>
-      <guid>/event/nierste_2022/</guid>
+      <guid>/event/44_ulrich.nierste_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accelerated light dark matter</title>
-      <link>/event/pospelov_2022/</link>
+      <link>/event/43_maxim.pospelov_2022/</link>
       <pubDate>Wed, 30 Nov 2022 10:00:00 +0000</pubDate>
-      <guid>/event/pospelov_2022/</guid>
+      <guid>/event/43_maxim.pospelov_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parity Solution to the Strong CP Problem and its Experimental Tests</title>
-      <link>/event/babu_2022/</link>
+      <link>/event/42_kaladi.s.babu_2022/</link>
       <pubDate>Wed, 16 Nov 2022 10:00:00 +0000</pubDate>
-      <guid>/event/babu_2022/</guid>
+      <guid>/event/42_kaladi.s.babu_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Some Ruminations On The Interplay Between Bayesian Inference and Machine Learning</title>
-      <link>/event/betancourt_2022/</link>
+      <link>/event/41_michael.betancourt_2022/</link>
       <pubDate>Wed, 09 Nov 2022 10:00:00 +0000</pubDate>
-      <guid>/event/betancourt_2022/</guid>
+      <guid>/event/41_michael.betancourt_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spin-Dependent Dark Matter-Electron Interactions </title>
-      <link>/event/liu_2022/</link>
+      <link>/event/40_cheng-pang.liu_2022/</link>
       <pubDate>Wed, 19 Oct 2022 15:00:00 +0000</pubDate>
-      <guid>/event/liu_2022/</guid>
+      <guid>/event/40_cheng-pang.liu_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minimal Entanglement and Emerging Symmetries in Low-energy QCD</title>
-      <link>/event/low_2022/</link>
+      <link>/event/39_ian.low_2022/</link>
       <pubDate>Wed, 12 Oct 2022 10:00:00 +0000</pubDate>
-      <guid>/event/low_2022/</guid>
+      <guid>/event/39_ian.low_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The new frontiers of Composite Higgs models at current and future colliders</title>
-      <link>/event/cacciapaglia_2022/</link>
+      <link>/event/38_giacomo.cacciapaglia_2022/</link>
       <pubDate>Wed, 28 Sep 2022 15:00:00 +0000</pubDate>
-      <guid>/event/cacciapaglia_2022/</guid>
+      <guid>/event/38_giacomo.cacciapaglia_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Tale with Precision</title>
-      <link>/event/erler_2022/</link>
+      <link>/event/37_jens.erler_2022/</link>
       <pubDate>Wed, 14 Sep 2022 14:00:00 +0000</pubDate>
-      <guid>/event/erler_2022/</guid>
+      <guid>/event/37_jens.erler_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neutrino Oscillations</title>
-      <link>/event/kajita_2022/</link>
+      <link>/event/36_takaaki.kajita_2022/</link>
       <pubDate>Fri, 09 Sep 2022 14:00:00 +0000</pubDate>
-      <guid>/event/kajita_2022/</guid>
+      <guid>/event/36_takaaki.kajita_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Superdeterminism: The Forgotten Solution</title>
-      <link>/event/hossenfelder_2022/</link>
+      <link>/event/35_sabine.hossenfelder_2022/</link>
       <pubDate>Wed, 29 Jun 2022 16:00:00 +0000</pubDate>
-      <guid>/event/hossenfelder_2022/</guid>
+      <guid>/event/35_sabine.hossenfelder_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Higgs Boson - A Dissection Tool for New Physics</title>
-      <link>/event/muhlleitner_2022/</link>
+      <link>/event/34_maggie.muhlleitner_2022/</link>
       <pubDate>Wed, 15 Jun 2022 15:00:00 +0000</pubDate>
-      <guid>/event/muhlleitner_2022/</guid>
+      <guid>/event/34_maggie.muhlleitner_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Precision effective number of neutrinos $N_\textrm{eff}$</title>
-      <link>/event/wong_2022/</link>
+      <link>/event/33_yvonne.wong_2022/</link>
       <pubDate>Wed, 08 Jun 2022 10:00:00 +0000</pubDate>
-      <guid>/event/wong_2022/</guid>
+      <guid>/event/33_yvonne.wong_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Searching for new physics in neutrino-quark interactions</title>
-      <link>/event/schmidt_2022/</link>
+      <link>/event/32_michael.schmidt_2022/</link>
       <pubDate>Wed, 01 Jun 2022 15:00:00 +0000</pubDate>
-      <guid>/event/schmidt_2022/</guid>
+      <guid>/event/32_michael.schmidt_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Future of Composite Dynamics: From composite Higgs to composite dark sectors</title>
-      <link>/event/sannino_2022/</link>
+      <link>/event/31.francesco.sannino_2022/</link>
       <pubDate>Wed, 25 May 2022 15:00:00 +0000</pubDate>
-      <guid>/event/sannino_2022/</guid>
+      <guid>/event/31.francesco.sannino_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Navigating the parameter space of the 3HDMs</title>
-      <link>/event/ivanov_2022/</link>
+      <link>/event/30_igor.ivanov_2022/</link>
       <pubDate>Wed, 11 May 2022 15:00:00 +0000</pubDate>
-      <guid>/event/ivanov_2022/</guid>
+      <guid>/event/30_igor.ivanov_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collider Phenomenology of Simple $Z^\prime$ Models for $b \to s \mu^&#43; \mu^-$ Anomalies</title>
-      <link>/event/allanach_2022/</link>
+      <link>/event/29_ben.allanach_2022/</link>
       <pubDate>Wed, 27 Apr 2022 16:00:00 +0000</pubDate>
-      <guid>/event/allanach_2022/</guid>
+      <guid>/event/29_ben.allanach_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Confronting BSM physics with the latest experimental results</title>
-      <link>/event/weiglein_2022/</link>
+      <link>/event/28_georg.weiglein_2022/</link>
       <pubDate>Wed, 13 Apr 2022 15:00:00 +0000</pubDate>
-      <guid>/event/weiglein_2022/</guid>
+      <guid>/event/28_georg.weiglein_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automating generic phenomenology</title>
-      <link>/event/goodsell_2022/</link>
+      <link>/event/27_mark.goodsell_2022/</link>
       <pubDate>Wed, 06 Apr 2022 15:00:00 +0000</pubDate>
-      <guid>/event/goodsell_2022/</guid>
+      <guid>/event/27_mark.goodsell_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Higgs-mass predictions in SUSY models</title>
-      <link>/event/slavich_2022/</link>
+      <link>/event/26_pietro.slavich_2022/</link>
       <pubDate>Wed, 30 Mar 2022 16:00:00 +0000</pubDate>
-      <guid>/event/slavich_2022/</guid>
+      <guid>/event/26_pietro.slavich_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Axion Quasiparticles for Axion Dark Matter Detection</title>
-      <link>/event/marsh_2022/</link>
+      <link>/event/25_david.marsh_2022/</link>
       <pubDate>Wed, 23 Mar 2022 16:00:00 +0000</pubDate>
-      <guid>/event/marsh_2022/</guid>
+      <guid>/event/25_david.marsh_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Was There an Electroweak Phase Transition?</title>
-      <link>/event/ramsey-musolf_2022/</link>
+      <link>/event/24_michael.ramsey-musolf_2022/</link>
       <pubDate>Wed, 09 Mar 2022 09:00:00 +0000</pubDate>
-      <guid>/event/ramsey-musolf_2022/</guid>
+      <guid>/event/24_michael.ramsey-musolf_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search for new physics with rare B decays</title>
-      <link>/event/mahmoudi_2022/</link>
+      <link>/event/23_nazila.mahmoudi_2022/</link>
       <pubDate>Tue, 01 Mar 2022 16:00:00 +0000</pubDate>
-      <guid>/event/mahmoudi_2022/</guid>
+      <guid>/event/23_nazila.mahmoudi_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New 5D Perspectives on the QCD Axion</title>
-      <link>/event/gherghetta_2022/</link>
+      <link>/event/22_tony.gherghetta_2022/</link>
       <pubDate>Wed, 09 Feb 2022 09:00:00 +0000</pubDate>
-      <guid>/event/gherghetta_2022/</guid>
+      <guid>/event/22_tony.gherghetta_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>StratLearn: A general-purpose method for supervised learning under covariate shift with applications to observational cosmology</title>
-      <link>/event/trotta_2022/</link>
+      <link>/event/21_roberto.trotta_2022/</link>
       <pubDate>Wed, 19 Jan 2022 16:00:00 +0000</pubDate>
-      <guid>/event/trotta_2022/</guid>
+      <guid>/event/21_roberto.trotta_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Primordial Black Holes as a dark matter candidate</title>
-      <link>/event/green_2021/</link>
+      <link>/event/20_anne.green_2021/</link>
       <pubDate>Wed, 15 Dec 2021 16:00:00 +0000</pubDate>
-      <guid>/event/green_2021/</guid>
+      <guid>/event/20_anne.green_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why is the Higgs boson SM-like?</title>
-      <link>/event/haber_2021/</link>
+      <link>/event/19_howie.haber_2021/</link>
       <pubDate>Wed, 08 Dec 2021 15:00:00 +0000</pubDate>
-      <guid>/event/haber_2021/</guid>
+      <guid>/event/19_howie.haber_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning &amp; the future of the LHC search program</title>
-      <link>/event/pierini_2021/</link>
+      <link>/event/18_maurizio.pierini_2021/</link>
       <pubDate>Wed, 01 Dec 2021 16:30:00 +0000</pubDate>
-      <guid>/event/pierini_2021/</guid>
+      <guid>/event/18_maurizio.pierini_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hunting for sub-GeV dark matter with gas-based detectors</title>
-      <link>/event/mccabe_2021/</link>
+      <link>/event/17_chris.mccabe_2021/</link>
       <pubDate>Wed, 24 Nov 2021 15:00:00 +0000</pubDate>
-      <guid>/event/mccabe_2021/</guid>
+      <guid>/event/17_chris.mccabe_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Searching for sub-GeV dark matter</title>
-      <link>/event/kahlhoefer_2021/</link>
+      <link>/event/16_felix.kahlhoefer_2021/</link>
       <pubDate>Wed, 17 Nov 2021 15:00:00 +0000</pubDate>
-      <guid>/event/kahlhoefer_2021/</guid>
+      <guid>/event/16_felix.kahlhoefer_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised Machine Learning in Astrophysical Data</title>
-      <link>/event/buckley_2021/</link>
+      <link>/event/15_matthew.buckley_2021/</link>
       <pubDate>Wed, 10 Nov 2021 10:00:00 +0000</pubDate>
-      <guid>/event/buckley_2021/</guid>
+      <guid>/event/15_matthew.buckley_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B anomalies and the flavor of SMEFT</title>
-      <link>/event/isidori_2021/</link>
+      <link>/event/14_gino.isidori_2021/</link>
       <pubDate>Wed, 27 Oct 2021 15:00:00 +0000</pubDate>
-      <guid>/event/isidori_2021/</guid>
+      <guid>/event/14_gino.isidori_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Venturing into the neutrino fog</title>
-      <link>/event/ohare_2021/</link>
+      <link>/event/13_ciaran.ohare_2021/</link>
       <pubDate>Wed, 20 Oct 2021 15:00:00 +0000</pubDate>
-      <guid>/event/ohare_2021/</guid>
+      <guid>/event/13_ciaran.ohare_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forward and Inverse LHC Simulations with Neural Networks</title>
-      <link>/event/plehn_2021/</link>
+      <link>/event/12_tilman.plehn_2021/</link>
       <pubDate>Wed, 13 Oct 2021 15:00:00 +0000</pubDate>
-      <guid>/event/plehn_2021/</guid>
+      <guid>/event/12_tilman.plehn_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gravitational instantons, CP asymmetry, and axions</title>
-      <link>/event/kobakhidze_2021/</link>
+      <link>/event/11_archil.kobakhidze_2021/</link>
       <pubDate>Wed, 29 Sep 2021 10:00:00 +0000</pubDate>
-      <guid>/event/kobakhidze_2021/</guid>
+      <guid>/event/11_archil.kobakhidze_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dark Matter Puzzles from Indirect Searches</title>
-      <link>/event/slatyer_2021/</link>
+      <link>/event/10_tracy.slatyer_2021/</link>
       <pubDate>Thu, 17 Jun 2021 09:00:00 +0000</pubDate>
-      <guid>/event/slatyer_2021/</guid>
+      <guid>/event/10_tracy.slatyer_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FASER and Forward Physics at the LHC</title>
-      <link>/event/feng_2021/</link>
+      <link>/event/9_jonathan.feng_2021/</link>
       <pubDate>Thu, 10 Jun 2021 11:00:00 +0000</pubDate>
-      <guid>/event/feng_2021/</guid>
+      <guid>/event/9_jonathan.feng_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dark Matter Capture in Stars</title>
-      <link>/event/bell_2021/</link>
+      <link>/event/8_nicole.bell_2021/</link>
       <pubDate>Thu, 03 Jun 2021 11:00:00 +0000</pubDate>
-      <guid>/event/bell_2021/</guid>
+      <guid>/event/8_nicole.bell_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Direct detection of dark matter - a theorist’s perspective</title>
-      <link>/event/roszkowski_2021/</link>
+      <link>/event/7_leszek.roszkowski_2021/</link>
       <pubDate>Thu, 06 May 2021 15:00:00 +0000</pubDate>
-      <guid>/event/roszkowski_2021/</guid>
+      <guid>/event/7_leszek.roszkowski_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New Paradigms for New Physics Searches at the LHC with Machine Learning</title>
-      <link>/event/shih_2021/</link>
+      <link>/event/6_david.shih_2021/</link>
       <pubDate>Thu, 29 Apr 2021 09:00:00 +0000</pubDate>
-      <guid>/event/shih_2021/</guid>
+      <guid>/event/6_david.shih_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Hubble tension and early dark energy</title>
-      <link>/event/kamionkowski_2021/</link>
+      <link>/event/5_marc.kamionkowski_2021/</link>
       <pubDate>Thu, 22 Apr 2021 09:00:00 +0000</pubDate>
-      <guid>/event/kamionkowski_2021/</guid>
+      <guid>/event/5_marc.kamionkowski_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Axion Dark Matter</title>
-      <link>/event/sikivie_2021/</link>
+      <link>/event/4_pierre.sikivie_2021/</link>
       <pubDate>Thu, 15 Apr 2021 09:00:00 +0000</pubDate>
-      <guid>/event/sikivie_2021/</guid>
+      <guid>/event/4_pierre.sikivie_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Muon $g-2$ and physics beyond the Standard Model</title>
-      <link>/event/stockinger_2021/</link>
+      <link>/event/3_dominik.stockinger_2021/</link>
       <pubDate>Fri, 02 Apr 2021 15:00:00 +0000</pubDate>
-      <guid>/event/stockinger_2021/</guid>
+      <guid>/event/3_dominik.stockinger_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fundamental Physics from Gravitational Waves</title>
-      <link>/event/ellis_2021/</link>
+      <link>/event/2_john.ellis_2021/</link>
       <pubDate>Thu, 25 Mar 2021 15:00:00 +0000</pubDate>
-      <guid>/event/ellis_2021/</guid>
+      <guid>/event/2_john.ellis_2021/</guid>
       <description></description>
     </item>
     

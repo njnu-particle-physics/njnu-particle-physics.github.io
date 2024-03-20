@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Nicole Bell - Dark Matter Capture in Stars
+DESCRIPTION:The capture of dark matter in stars provides a cosmic laboratory in which to study the nature of dark matter particles and their interactions. We outline an improved treatment of the dark matter capture process, which correctly incorporates a number of important, yet previously overlooked, physical effects. We discuss observational consequences for capture in the Sun, white dwarfs and neutron stars.
+DTSTAMP;TZID=/Asia/Shanghai:20210603T110000
+DTSTART;TZID=/Asia/Shanghai:20210603T110000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR

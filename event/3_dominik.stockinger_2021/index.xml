@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muon $g-2$ and physics beyond the Standard Model | NJNU Particle Physics</title>
+    <link>/event/3_dominik.stockinger_2021/</link>
+      <atom:link href="/event/3_dominik.stockinger_2021/index.xml" rel="self" type="application/rss+xml" />
+    <description>Muon $g-2$ and physics beyond the Standard Model</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 NJNU</copyright><lastBuildDate>Fri, 02 Apr 2021 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/event/3_dominik.stockinger_2021/featured.jpg</url>
+      <title>Muon $g-2$ and physics beyond the Standard Model</title>
+      <link>/event/3_dominik.stockinger_2021/</link>
+    </image>
+    
+  </channel>
+</rss>

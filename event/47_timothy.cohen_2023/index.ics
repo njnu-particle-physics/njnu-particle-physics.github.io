@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Timothy Cohen - Dark Sector Searches at the LHC
+DESCRIPTION:It is plausible that the dark matter is a remnant of a hidden sector that involves new strongly coupled dynamics akin to Standard Model QCD. Such a dark sector could lead to a variety of signatures at the LHC, and its imprint could be lurking within subtle properties of jet substructure. In this talk, I will discuss the status of dark sector searches at the LHC. I will introduce our simplified model-like parameterization for the collider signatures of semi-visible jets. These objects are characterized by a jet like spray of QCD hadrons that is aligned with invisible dark matter hadrons, a generic feature of parton showers. I will highlight recent ATLAS and CMS searches for semi-visible jets. I will then explain our state-of-the-art prediction for the theory error on substructure distributions. I will show recent work where we argue that the Lund Jet Plane provides a simple representation to isolate the incalculable effects of dark sector fragmentation and hadronization. This will facilitate more robust LHC searches for these exciting signatures in the future.
+DTSTAMP;TZID=/Asia/Shanghai:20230412T150000
+DTSTART;TZID=/Asia/Shanghai:20230412T150000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR

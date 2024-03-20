@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Kaladi Babu - Parity Solution to the Strong CP Problem and its Experimental Tests
+DESCRIPTION:In theories where Parity (P) is a spontaneously broken symmetry, the strong CP problem can be solved by P symmetry alone, without the need for an axion.  In this talk I shall elaborate on this proposal and present left-right symmetric theories which offer such a solution to the strong CP problem.  Phenomenological implications of this class of models will be discussed, focusing on neutrino oscillations, flavor anomalies, unitarity violation of the CKM matrix, as well as the $W$-boson mass shift.
+DTSTAMP;TZID=/Asia/Shanghai:20221116T100000
+DTSTART;TZID=/Asia/Shanghai:20221116T100000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR

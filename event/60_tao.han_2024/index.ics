@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Tao Han - Roadmap of Particle Physics in the Next Decade
+DESCRIPTION:With the milestone discovery of the Higgs boson at the LHC, high energy physics has entered a new era. The completion of the "Standard Model" (SM) implies that we have a relativistic, quantum-mechanical, self-consistent theoretical framework, conceivably valid up to exponentially high energies, even to the Planck scale. Yet, the SM leaves many unanswered questions both from the theoretical and observational perspectives. There are thus compelling reasons to believe that new physics beyond the Standard Model exists. In the U.S., the APS DPF conducted a community decadal study to identify the fundamental questions in particle physics and the opportunities to address them (Snowmass 2021). Based on the outputs of Snowmass 2021, a special advisory panel (P5) recent announced its recommendations to lay out the roadmap of particle physics in the next decade and beyond. In this talk, I will present an overview of the landscape of contemporary particle physics, the main P5 recommendations, and the physics expectations.
+DTSTAMP;TZID=/Asia/Shanghai:20240313T100000
+DTSTART;TZID=/Asia/Shanghai:20240313T100000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR
