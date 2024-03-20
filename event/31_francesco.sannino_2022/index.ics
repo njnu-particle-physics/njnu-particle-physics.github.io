@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Francesco Sannino - The Future of Composite Dynamics: From composite Higgs to composite dark sectors
+DESCRIPTION:I will show how novel composite dynamics is a primary candidate to explain all of or some of the SM anomalies from the observation of lepton-flavour non universality to $g-2$ and the recent observation of the $W$-mass anomaly. I will also show how composite dark sectors can be constrained by the next generation of gravitation wave detectors. Last but not least I will discuss how and when new composite dynamics could emerge at collider experiments.
+DTSTAMP;TZID=/Asia/Shanghai:20220525T150000
+DTSTART;TZID=/Asia/Shanghai:20220525T150000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR
