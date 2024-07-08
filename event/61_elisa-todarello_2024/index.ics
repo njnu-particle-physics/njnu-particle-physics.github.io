@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Elisa Todarello - Phenomenology of Axion Decay into Photons
+DESCRIPTION:Axions and axion-like particles couple to photons through a distinctive two-photon vertex. This vertex allows for axion decay into two photons. In this talk, I will show how we can search for axion dark matter by looking for excess radiation resulting from axion decay within a narrow frequency band centered around half the unknown axion mass m. Depending on the value of m, the decay process is dominated by either spontaneous or stimulated decay, requiring corresponding adjustments in the search strategy.
+DTSTAMP;TZID=/Asia/Shanghai:20240417T150000
+DTSTART;TZID=/Asia/Shanghai:20240417T150000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR

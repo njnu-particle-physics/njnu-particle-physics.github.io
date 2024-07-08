@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:David Curtin - The Physics of Dark Glueballs
+DESCRIPTION:Hidden sectors featuring confining gauge theories, commonly called hidden valleys, are a highly motivated possibility for new physics. They are plausible from a bottom-up point of view, can explain the origin or signals of dark matter and other questions, and are predicted by Neutral Naturalness solutions of the hierarchy problem like the Twin Higgs. The challenge in studying the phenomenology of these dark QCD theories lies in the non-perturbative physics of hadronization. If the number of light flavors Nf (dark quarks with mass below the confinement scale) is nonzero, this can usually be modeled by analogy to SM QCD. However, until recently, there was no quantitative way to predict the production of hadrons in a theory with Nf = 0, ie dark glueballs. In this talk I will report on our recent work to build a Monte Carlo generator for dark glueball hadronization, and its application to dark matter and collider physics, as well as possible next steps.
+DTSTAMP;TZID=/Asia/Shanghai:20240424T100000
+DTSTART;TZID=/Asia/Shanghai:20240424T100000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR

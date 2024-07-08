@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sven Heinemeyer | NJNU Particle Physics</title>
+    <link>/author/sven-heinemeyer/</link>
+      <atom:link href="/author/sven-heinemeyer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sven Heinemeyer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 NJNU</copyright><lastBuildDate>Wed, 22 May 2024 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Sven Heinemeyer</title>
+      <link>/author/sven-heinemeyer/</link>
+    </image>
+    
+    <item>
+      <title>FOEWPT, THCs and GWs in the 2HDM</title>
+      <link>/event/64_sven-heinemeyer_2024/</link>
+      <pubDate>Wed, 22 May 2024 15:00:00 +0000</pubDate>
+      <guid>/event/64_sven-heinemeyer_2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

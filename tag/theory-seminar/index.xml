@@ -5,12 +5,44 @@
     <link>/tag/theory-seminar/</link>
       <atom:link href="/tag/theory-seminar/index.xml" rel="self" type="application/rss+xml" />
     <description>Theory Seminar</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 NJNU</copyright><lastBuildDate>Wed, 13 Mar 2024 10:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 NJNU</copyright><lastBuildDate>Wed, 22 May 2024 15:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Theory Seminar</title>
       <link>/tag/theory-seminar/</link>
     </image>
+    
+    <item>
+      <title>FOEWPT, THCs and GWs in the 2HDM</title>
+      <link>/event/64_sven-heinemeyer_2024/</link>
+      <pubDate>Wed, 22 May 2024 15:00:00 +0000</pubDate>
+      <guid>/event/64_sven-heinemeyer_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using gravitational waves to see the early Universe</title>
+      <link>/event/63_rishav-roshan_2024/</link>
+      <pubDate>Wed, 08 May 2024 16:00:00 +0000</pubDate>
+      <guid>/event/63_rishav-roshan_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Physics of Dark Glueballs</title>
+      <link>/event/62_david-curtin_2024/</link>
+      <pubDate>Wed, 24 Apr 2024 10:00:00 +0000</pubDate>
+      <guid>/event/62_david-curtin_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phenomenology of Axion Decay into Photons</title>
+      <link>/event/61_elisa-todarello_2024/</link>
+      <pubDate>Wed, 17 Apr 2024 15:00:00 +0000</pubDate>
+      <guid>/event/61_elisa-todarello_2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Roadmap of Particle Physics in the Next Decade</title>

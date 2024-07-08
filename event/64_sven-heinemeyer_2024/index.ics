@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Sven Heinemeyer - FOEWPT, THCs and GWs in the 2HDM
+DESCRIPTION:The baryon assymmetry of the universe gives indications for a First Order Electroweak Phase Transistion (FOEWPT) in the early universe. This in turn requires an extended Higgs sector with modifications of the triple Higgs couplings (THCs) with respect to the SM predictions. We discuss the predictions of the Two Higgs Doublet Model (2HDM) for the FOEWPT, the THCs and possible gravitational wave (GW) signals. We show how such a BSM Higgs sector with additional THCs can be tested at the (HL-)LHC and future e+e-colliders. Finally, we show how machine learning techniques can be employed to pin down the underlying BSM parameters from the HL-LHC measurements.
+DTSTAMP;TZID=/Asia/Shanghai:20240522T150000
+DTSTART;TZID=/Asia/Shanghai:20240522T150000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR

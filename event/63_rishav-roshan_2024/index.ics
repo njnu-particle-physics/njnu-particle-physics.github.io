@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Rishav Roshan - Using gravitational waves to see the early Universe
+DESCRIPTION:Gravitational waves are a unique probe of the early Universe, as the Universe is transparent to gravitational radiation right back to the beginning. Here, I will summarise some of the different scopes of primordial events that could lead to a detectable stochastic gravitational wave background. Any such background would shed light on what (if anything) lies beyond the Standard Model, sometimes at remarkably high scales. We overview the range of strategies for detecting a stochastic gravitational wave background before delving deep into three major primordial events that can source such a background.
+DTSTAMP;TZID=/Asia/Shanghai:20240508T160000
+DTSTART;TZID=/Asia/Shanghai:20240508T160000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR

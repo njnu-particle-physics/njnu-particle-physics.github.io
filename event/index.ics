@@ -12,6 +12,42 @@ END:VTIMEZONE
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
+SUMMARY:Sven Heinemeyer - FOEWPT, THCs and GWs in the 2HDM
+DESCRIPTION:The baryon assymmetry of the universe gives indications for a First Order Electroweak Phase Transistion (FOEWPT) in the early universe. This in turn requires an extended Higgs sector with modifications of the triple Higgs couplings (THCs) with respect to the SM predictions. We discuss the predictions of the Two Higgs Doublet Model (2HDM) for the FOEWPT, the THCs and possible gravitational wave (GW) signals. We show how such a BSM Higgs sector with additional THCs can be tested at the (HL-)LHC and future e+e-colliders. Finally, we show how machine learning techniques can be employed to pin down the underlying BSM parameters from the HL-LHC measurements.
+DTSTAMP;TZID=/Asia/Shanghai:20240522T150000
+DTSTART;TZID=/Asia/Shanghai:20240522T150000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Rishav Roshan - Using gravitational waves to see the early Universe
+DESCRIPTION:Gravitational waves are a unique probe of the early Universe, as the Universe is transparent to gravitational radiation right back to the beginning. Here, I will summarise some of the different scopes of primordial events that could lead to a detectable stochastic gravitational wave background. Any such background would shed light on what (if anything) lies beyond the Standard Model, sometimes at remarkably high scales. We overview the range of strategies for detecting a stochastic gravitational wave background before delving deep into three major primordial events that can source such a background.
+DTSTAMP;TZID=/Asia/Shanghai:20240508T160000
+DTSTART;TZID=/Asia/Shanghai:20240508T160000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:David Curtin - The Physics of Dark Glueballs
+DESCRIPTION:Hidden sectors featuring confining gauge theories, commonly called hidden valleys, are a highly motivated possibility for new physics. They are plausible from a bottom-up point of view, can explain the origin or signals of dark matter and other questions, and are predicted by Neutral Naturalness solutions of the hierarchy problem like the Twin Higgs. The challenge in studying the phenomenology of these dark QCD theories lies in the non-perturbative physics of hadronization. If the number of light flavors Nf (dark quarks with mass below the confinement scale) is nonzero, this can usually be modeled by analogy to SM QCD. However, until recently, there was no quantitative way to predict the production of hadrons in a theory with Nf = 0, ie dark glueballs. In this talk I will report on our recent work to build a Monte Carlo generator for dark glueball hadronization, and its application to dark matter and collider physics, as well as possible next steps.
+DTSTAMP;TZID=/Asia/Shanghai:20240424T100000
+DTSTART;TZID=/Asia/Shanghai:20240424T100000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Elisa Todarello - Phenomenology of Axion Decay into Photons
+DESCRIPTION:Axions and axion-like particles couple to photons through a distinctive two-photon vertex. This vertex allows for axion decay into two photons. In this talk, I will show how we can search for axion dark matter by looking for excess radiation resulting from axion decay within a narrow frequency band centered around half the unknown axion mass m. Depending on the value of m, the decay process is dominated by either spontaneous or stimulated decay, requiring corresponding adjustments in the search strategy.
+DTSTAMP;TZID=/Asia/Shanghai:20240417T150000
+DTSTART;TZID=/Asia/Shanghai:20240417T150000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
 SUMMARY:Tao Han - Roadmap of Particle Physics in the Next Decade
 DESCRIPTION:With the milestone discovery of the Higgs boson at the LHC, high energy physics has entered a new era. The completion of the "Standard Model" (SM) implies that we have a relativistic, quantum-mechanical, self-consistent theoretical framework, conceivably valid up to exponentially high energies, even to the Planck scale. Yet, the SM leaves many unanswered questions both from the theoretical and observational perspectives. There are thus compelling reasons to believe that new physics beyond the Standard Model exists. In the U.S., the APS DPF conducted a community decadal study to identify the fundamental questions in particle physics and the opportunities to address them (Snowmass 2021). Based on the outputs of Snowmass 2021, a special advisory panel (P5) recent announced its recommendations to lay out the roadmap of particle physics in the next decade and beyond. In this talk, I will present an overview of the landscape of contemporary particle physics, the main P5 recommendations, and the physics expectations.
 DTSTAMP;TZID=/Asia/Shanghai:20240313T100000
