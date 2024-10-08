@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NJNU Particle Physics//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:	Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+X-WR-TIMEZONE:Asia/Shanghai
+TZNAME:CST
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
+SUMMARY:Pai-hsien Jennifer Hsu - Quantum Entanglement in the Large Hadron Collider
+DESCRIPTION:Recently there has been a growing interest in the measurements of quantum properties with collider experiments, and the ATLAS collaboration has reported the first observation of entanglement of top-antitop pairs last year (Nov. 2023). In this talk, I will present the measurements of quantum entanglement of top-anitop pairs of the ATLAS and CMS experiments, and discuss the proposals of measuring entanglement with the bosonic decay channels of the Higgs boson.
+DTSTAMP;TZID=/Asia/Shanghai:20241009T140000
+DTSTART;TZID=/Asia/Shanghai:20241009T140000
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR
