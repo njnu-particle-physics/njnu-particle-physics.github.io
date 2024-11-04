@@ -12,6 +12,15 @@ END:VTIMEZONE
 
 BEGIN:VEVENT
 ORGANIZER:NJNU Particle Physics
+SUMMARY:Gonzalo Alonso-Alvarez - The role of dark matter in supermassive black hole mergers
+DESCRIPTION:Increasing evidence for a stochastic gravitational background is being collected at pulsar timing arrays. The most plausible origin of the signal is the cumulative strain from the mergers of supermassive black holes at the center of galaxies across the history of the universe. I will discuss how the impact of dark matter dynamical friction on the black hole binary evolution can address some of the questions that this discovery raises. This includes the "final parsec problem" by which mergers would otherwise stall before gravitational wave emission can drive the coalesce. I will argue that the observational data favor the existence of dark matter self interactions with a cross-section and velocity dependence consistent with the ones capable of solving the small-scale structure problems of collisionless cold dark matter.
+DTSTAMP;TZID=/Asia/Shanghai:20241106T100000
+DTSTART;TZID=/Asia/Shanghai:20241106T100000
+LOCATION:Online
+END:VEVENT
+
+BEGIN:VEVENT
+ORGANIZER:NJNU Particle Physics
 SUMMARY:Pai-hsien Jennifer Hsu - Quantum Entanglement in the Large Hadron Collider
 DESCRIPTION:Recently there has been a growing interest in the measurements of quantum properties with collider experiments, and the ATLAS collaboration has reported the first observation of entanglement of top-antitop pairs last year (Nov. 2023). In this talk, I will present the measurements of quantum entanglement of top-anitop pairs of the ATLAS and CMS experiments, and discuss the proposals of measuring entanglement with the bosonic decay channels of the Higgs boson.
 DTSTAMP;TZID=/Asia/Shanghai:20241009T140000
